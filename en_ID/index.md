@@ -1,13 +1,17 @@
-# It works! ;-)
+# Kulkul.tech Open-source program
 
 
-## Section 1
+## Welcome
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+Welcome! You're on Kulkul's open-source program page. We are committed to the open-source movement and using the open-source program as a tool to nurture and groom the next generation of Kul software engineers. We have internships and open-source programs that we started to open in late 2020. Browse around to learn more.
 
 
-## Section 2
+## Internships Program
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+We're running our year-long internship program. If you're interested please reach out to [support@kulkul.tech](mailto:support@kulkul.tech). Our program always open.
 
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+## Open-source Projects
+
+- [Ngecilin](https://github.com/kulkultech/ngecilin) - A Browser Extension to shorten any URL with only 2-clicks.
+- [tinyurl-client](https://github.com/kulkultech/tinyurl-client) - A Library to use TinyURL API in the Browser.
+- [jumpstart-swe](https://github.com/kulkultech/jumpstart-swe) - A project to help aspiring software engineers to thrive.
