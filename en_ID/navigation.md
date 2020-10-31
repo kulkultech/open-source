@@ -19,7 +19,9 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
+[Virtual Intern](pages/internship.md)
+[First step](pages/internship.md#First_Step)
+[About](https://kulkul.tech/about/)
 [Chat](https://discord.gg/AYvyGpb7aP)
 
 <!-- A more complex navigation example: ----------------------------------------
