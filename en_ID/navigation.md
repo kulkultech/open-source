@@ -20,7 +20,7 @@
   -->
 
 [About](pages/about.md)
-[Download](pages/download.md)
+[Chat](https://discord.gg/AYvyGpb7aP)
 
 <!-- A more complex navigation example: ----------------------------------------
 
