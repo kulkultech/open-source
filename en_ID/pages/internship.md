@@ -128,7 +128,7 @@ To finish this step you can follow the tutorial below.
 ## Step 6 - GitHub Issues Tutorial
 
 Note: At the end of this step, you will have the following finished.
---
+‎
 - **2 pull requests made** (one at step 3 and one at step 6)
 - **1 comment added** (on an issue you didn't create)
 - **1 issue created**
@@ -150,7 +150,7 @@ To finish this step you can follow the tutorial below.
 ## Step 8 - Create issues and pull request
 
 Note: At the end of this step, you will have the following finished.
---
+‎
 - **5 merged pull requests** (one at step 3, one at step 6 and three at step 8)
 - **4 comments made** on issues you didn't create (one at step 6 and three at step 8)
 - **4 issues created** (one at step 6 and three at step 8)
