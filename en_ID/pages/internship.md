@@ -107,21 +107,47 @@ After you are able to install Ngecilin we will soon start our social coding jour
 
 ## Step 3 - Markdown and Fork Tutorial
 
+Note: At the end of this step you will submit **1 Pull Request**.
+
 To finish this step you can follow the tutorial below.
 
 [![][MarkdownTutorialThumb]][MarkdownTutorial]
 
 ## Step 4 - System tutorial and Docker
 
+To finish this step you can follow the tutorial below.
+
+[![][DockerTutorialThumb]][DockerTutorial]
+
 ## Step 5 - Keeping fork updated
 
+To finish this step you can follow the tutorial below.
+
+[![][SyncForkThumb]][SyncFork]
+
 ## Step 6 - GitHub Issues Tutorial
+
+Note: At the end of this step, you will have the following finished.
+--
+- **2 pull requests made** (one at step 3 and one at step 6)
+- **1 comment added** (on an issue you didn't create)
+- **1 issue created**
 
 ## Step 7 - Run another service on top of Docker
 
 ## Step 8 - Create issues and pull request
 
+Note: At the end of this step, you will have the following finished.
+--
+- **5 merged pull requests** (one at step 3, one at step 6 and three at step 8)
+- **4 comments made** on issues you didn't create (one at step 6 and three at step 8)
+- **4 issues created** (one at step 6 and three at step 8)
+
 ## Step 9 - Be part of the team
+
+Next thing is to post a screenshot of your completed progress to the [Discord chat room][Discord]. Currently, there's no automatic way to progress (potential issue and PR you can create!), but you can post the screenshot manually.
+
+Message us ("@/all" and "@rrachman") and ask about adding yourself to the virtual intern list found in `interns.md` and setting up a meeting, so you can become a part of the team as soon as possible if you're considered well suited.
 
 <!---
 Put any link below
@@ -152,3 +178,7 @@ Put any link below
 [GH-add-ssh]: https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
 [MarkdownTutorialThumb]: https://cdn.loom.com/sessions/thumbnails/21ca412384ec4ab0955022c4a911fce7-00001.gif
 [MarkdownTutorial]: https://www.loom.com/share/21ca412384ec4ab0955022c4a911fce7
+[DockerTutorialThumb]: https://cdn.loom.com/sessions/thumbnails/df3b39ea5b2a47f09c158cd9c6301246-00001.gif
+[DockerTutorial]: https://www.loom.com/share/df3b39ea5b2a47f09c158cd9c6301246
+[SyncForkThumb]: https://cdn.loom.com/sessions/thumbnails/fd79261ac12f42979d311996b24b702d-00001.gif
+[SyncFork]: https://www.loom.com/share/fd79261ac12f42979d311996b24b702d
