@@ -30,7 +30,7 @@ Since mentoring the next generation would take time, we expect our intern to ded
 
 Welcome to the first steps of becoming a Virtual Intern at Kulkul.tech! After completing these steps, you'll be able to work on Kulkul.tech's project. These first steps are a process to prove that you have learned the foundational skills before you can progress to working on harder projects with larger teams. Consider this to be the interview for the internship. However, please remember that acceptance to the Virtual Intern program is subject to assessment from our recruitment team.
 
-Once accepted, you and your team will work on an assignment, and we’ll switch up the assignments each week. As part of this internship, you will have the opportunity to work with software and languages including Git, GitHub, Markdown, Command Line/Terminal Scripts, Vim, Android, iOS, Flutter, Elm, and Docker.
+Once accepted, you and your team will work on an assignment, and we’ll switch up the assignments each week. As part of this internship, you will have the opportunity to work with software and languages including [Git][Git], [GitHub][GitHub], [Markdown][Markdown], [Command Line/Terminal Scripts][CLI], [Vim][Vim], [Android][Android], [iOS][iOS], [Flutter][Flutter], [Elm][Elm], and [Docker][Docker].
 
 ## Prerequisites
 
@@ -55,3 +55,17 @@ Once accepted, you and your team will work on an assignment, and we’ll switch 
 ## Step 8 - Create issues and pull request
 
 ## Step 9 - Be part of the team
+
+<!---
+Put any link below
+-->
+[Git]: https://git-scm.com/
+[GitHub]: https://github.com/
+[Markdown]: https://www.markdownguide.org/
+[CLI]: https://www.codecademy.com/learn/learn-the-command-line
+[Vim]: https://www.vim.org/
+[Docker]: https://www.docker.com/
+[Android]: https://developer.android.com/
+[iOs]: https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/
+[Flutter]: https://flutter.dev/
+[Elm]: https://elm-lang.org/
