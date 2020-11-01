@@ -11,7 +11,7 @@ Kulkul.tech is a software development firm committed to high-quality software de
 
 ## Internships Program
 
-We're running our year-long internship program. If you're interested please reach out to [support@kulkul.tech](mailto:support@kulkul.tech). Our program always open.
+We're running our year-long internship program. If you're interested please reach follow our [Internship First Steps](pages/internship.md). Our program always opens throughout the year.
 
 ## Open-source Projects
 
