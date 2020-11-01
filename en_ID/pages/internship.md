@@ -133,7 +133,19 @@ Note: At the end of this step, you will have the following finished.
 - **1 comment added** (on an issue you didn't create)
 - **1 issue created**
 
+Follow the GitHub Issues tutorial video below to create at least one issue. Post a link in [Discord][Discord] whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. 
+
+No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all the issues that you file. You can also work on issues that you didn't create.
+
+Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged. You may continue making Issues, Pull requests and Comments, or move on to the next step, while you are waiting for your pull request to be merged. The approval process for your Step 6 fixes may take time, but it is OK to continue working.
+
+[![][GitHubIssuesThumb]][GitHubIssues]
+
 ## Step 7 - Run another service on top of Docker
+
+To finish this step you can follow the tutorial below.
+
+[![][MySQLDockerThumb]][MySQLDocker]
 
 ## Step 8 - Create issues and pull request
 
@@ -142,6 +154,20 @@ Note: At the end of this step, you will have the following finished.
 - **5 merged pull requests** (one at step 3, one at step 6 and three at step 8)
 - **4 comments made** on issues you didn't create (one at step 6 and three at step 8)
 - **4 issues created** (one at step 6 and three at step 8)
+
+
+In this step, we will adopt the motto of "Practice makes Perfect". You will follow the same steps as in Step 6, continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
+
+You should:
+
+* **Add comments** to three issues other than your own (somebody else's issue) Create three new issues (in addition to those you have already created in previous steps)
+* Get approval to **work on the issues** you have created. Make sure someone from the Kulkul's team confirms that you should work on the issue **BEFORE** you start to work on it. Resolve the three issues by making the necessary changes in your repo with three separate pull requests.
+
+Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more!
+
+You must have made your pull requests and have them each approved by at least two other Kulkul.tech team members/interns in order for it to be merged to the upstream repository. Just as before, announce your Pull Request on the [Discord chat][Discord] so other members can review it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
+
+NOTE: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request and make a new branch for every new issue from the master branch.
 
 ## Step 9 - Be part of the team
 
@@ -182,3 +208,7 @@ Put any link below
 [DockerTutorial]: https://www.loom.com/share/df3b39ea5b2a47f09c158cd9c6301246
 [SyncForkThumb]: https://cdn.loom.com/sessions/thumbnails/fd79261ac12f42979d311996b24b702d-00001.gif
 [SyncFork]: https://www.loom.com/share/fd79261ac12f42979d311996b24b702d
+[GitHubIssuesThumb]: https://cdn.loom.com/sessions/thumbnails/74cf3d969c0e43ed9a4e6e3d57f9bc07-00001.gif
+[GitHubIssues]: https://www.loom.com/share/74cf3d969c0e43ed9a4e6e3d57f9bc07
+[MySQLDockerThumb]: https://cdn.loom.com/sessions/thumbnails/5e1d6e098325493d94b876b5e395037b-00001.gif
+[MySQLDocker]: https://www.loom.com/share/5e1d6e098325493d94b876b5e395037b
