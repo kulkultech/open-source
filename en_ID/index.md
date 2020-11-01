@@ -5,6 +5,9 @@
 
 Welcome! You're on Kulkul's open-source program page. We are committed to the open-source movement and using the open-source program as a tool to nurture and groom the next generation of Kul software engineers. We have internships and open-source programs that we started to open in late 2020. Browse around to learn more.
 
+## About Kulkul.tech
+
+Kulkul.tech is a software development firm committed to high-quality software development and engineering education. We're proud to be a remote-first company. Our team is distributed in various cities in Indonesia and South East Asia.
 
 ## Internships Program
 

@@ -19,8 +19,24 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Virtual Intern](pages/internship.md)
-[First step](pages/internship.md#First_Step)
+[Virtual Interns]()
+
+  * [**Introduction / First Steps**](pages/internship.md#First_Step)
+  * [FAQ](pages/faq.md)
+  - - - -
+  * [Step 0 - Introductory Steps](pages/vi/firststeps.md#Step_0_-_Introductory_Steps)
+  * [Step 1 - Installing and finding your Raspberry Pi](pages/vi/firststeps.md#Step_1_-_Installing_and_finding_your_Raspberry_Pi)
+  * [Step 2 - SSH Tutorial](pages/vi/sshpi.md)
+  * [Step 3 - Markdown and Fork Tutorial](pages/vi/githubandmarkdown.md)
+  * [Step 4 - System Tutorial](pages/vi/firststeps.md#Step_4_-_System_Tutorial)
+  * [Step 5 - Keeping Fork Updated](pages/vi/gitrepositories.md)
+  * [Step 6 - GitHub Issues Tutorial](pages/vi/github-issues.md)
+  * [Step 7 - Other Services Running from a Raspberry Pi](pages/vi/nextcloud-tor.md)
+  * [Step 8 - Create Issues and Pull Requests](pages/vi/firststeps.md#Step_8_-_Create_Issues_and_Pull_Requests)
+  * [Step 9 - Be Part of the Team](pages/vi/firststeps.md#Step_9_-_Be_Part_of_the_Team)
+  - - - -
+  * [**Members**](pages/interns.md)
+
 [About](https://kulkul.tech/about/)
 [Chat](https://discord.gg/AYvyGpb7aP)
 
