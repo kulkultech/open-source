@@ -107,6 +107,10 @@ After you are able to install Ngecilin we will soon start our social coding jour
 
 ## Step 3 - Markdown and Fork Tutorial
 
+To finish this step you can follow the tutorial below.
+
+[![][MarkdownTutorialThumb]][MarkdownTutorial]
+
 ## Step 4 - System tutorial and Docker
 
 ## Step 5 - Keeping fork updated
@@ -146,3 +150,5 @@ Put any link below
 [Ngecilin]: https://github.com/kulkultech/ngecilin
 [LearnSSH]: https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process
 [GH-add-ssh]: https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
+[MarkdownTutorialThumb]: https://cdn.loom.com/sessions/thumbnails/21ca412384ec4ab0955022c4a911fce7-00001.gif
+[MarkdownTutorial]: https://www.loom.com/share/21ca412384ec4ab0955022c4a911fce7
