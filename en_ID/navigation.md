@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Kulkul OSS Wiki
 
 
 <!--
@@ -19,8 +19,26 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[Virtual Interns]()
+
+  * [**Introduction / First Steps**](pages/internship.md#First_Step)
+  * [FAQ](pages/faq.md)
+  - - - -
+  * [Step 0 - Introductory Steps](pages/internship.md#Step_0_-_Introductory_steps)
+  * [Step 1 - Installing Ngecilin in your computer](pages/internship.md#Step_0_-_Introductory_steps)
+  * [Step 2 - Learn how to use SSH](pages/internship.md#Step_2_-_Learn_how_to_use_SSH)
+  * [Step 3 - Markdown and Fork Tutorial](pages/internship.md#Step_3_-_Markdown_and_Fork_Tutorial)
+  * [Step 4 - System tutorial and Docker](pages/internship.md#Step_4_-_System_tutorial_and_Docker)
+  * [Step 5 - Keeping fork updated](pages/internship.md#Step_5_-_Keeping_fork_updated)
+  * [Step 6 - GitHub Issues Tutorial](pages/internship.md#Step_6_-_GitHub_Issues_Tutorial)
+  * [Step 7 - Run another service on top of Docker](pages/internship.md#Step_7_-_Run_another_service_on_top_of_Docker)
+  * [Step 8 - Create issues and pull request](pages/internship.md#Step_8_-_Create_issues_and_pull_request)
+  * [Step 9 - Be part of the team](pages/internship.md#Step_9_-_Be_part_of_the_team)
+  - - - -
+  * [**Members**](pages/interns.md)
+
+[About](https://kulkul.tech/about/)
+[Chat](https://discord.gg/AYvyGpb7aP)
 
 <!-- A more complex navigation example: ----------------------------------------
 

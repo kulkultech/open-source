@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <!--
    This is MDwiki v0.6.2
    (C) 2013 by Timo Dörr and contributors. This software is licensed
@@ -14,6 +14,17 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.png" />
     <meta charset="UTF-8">
     <style type="text/css">
+    .navbar-image {
+        z-index:2000;
+        width: 35px;
+        position: fixed;
+        margin-top: calc(15px / 2);
+        margin-left: calc(15px / 2);
+    }
+    .navbar-brand {
+        margin-left: 35px;
+    }
+
     /* hide the main content while we assemble everything */
     .md-hidden-load { display: none; }
 
@@ -180,7 +191,7 @@
         This website requires Javascript to be enabled. Please turn on Javascript
         and reload the page.
     </noscript>
-
+    <a href="https://github.com/kulkultech"><img class="navbar-image" src="favicon.png" alt="Kulkul Logo"></a>
     <div id="md-all">
     </div>
 </body>

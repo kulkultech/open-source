@@ -1,0 +1,14 @@
+{
+  "name": "open-source",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/kulkultech/open-source.git",
+  "author": "mpj@kulkul.tech",
+  "license": "MIT",
+  "scripts": {
+    "dev": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
