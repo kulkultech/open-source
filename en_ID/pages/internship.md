@@ -20,6 +20,8 @@ We are a tech-based company and software engineering is at the heart of our comp
 
 ## Duration and time commitment
 
+NOTE: This is an intensive internship, a dedicated amount of effort, and time are required.
+
 Since mentoring the next generation would take time, we expect our intern to dedicate significant time and effort to the program. The aspiring interns can be accepted to the program if they can work with us for at least 3 months with at least 20 hours per week commitment. This way we hope we can do the best for the interns and interns can have enough time to learn.
 
 ---
@@ -42,7 +44,7 @@ Once accepted, you and your team will work on an assignment, and we’ll switch 
 
 ## Step 3 - Markdown and Fork Tutorial
 
-## Step 4 - System tutorial (Intro to Docker)
+## Step 4 - System tutorial and Docker
 
 ## Step 5 - Keeping fork updated
 

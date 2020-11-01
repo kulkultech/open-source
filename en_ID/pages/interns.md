@@ -5,7 +5,7 @@
 |**Username**|**Join Date**|
 |------------|-------------|
 |**➤ Interns**||
-|[![][kulkultech-img]][kulkultech-gh][kulkultech](profiles/kulkultech.md)|2020-11-01|
+|[![][kulkultech-img]][kulkultech-gh]&nbsp;[kulkultech](profiles/kulkultech.md)|2020-11-01|
 
 
 <!---
