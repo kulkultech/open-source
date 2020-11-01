@@ -70,7 +70,7 @@ Complete the [New Virtual Intern Application form][Apply]. If you have already d
 
 Log into your GitHub account then **stars** the following repositories
 
-- [Ngecilin](https://github.com/kulkultech/ngecilin) - A Browser Extension to shorten any URL with only 2-clicks.
+- [Ngecilin][Ngecilin] - A Browser Extension to shorten any URL with only 2-clicks.
 - [tinyurl-client](https://github.com/kulkultech/tinyurl-client) - A Library to use TinyURL API in the Browser.
 - [jumpstart-swe](https://github.com/kulkultech/jumpstart-swe) - A project to help aspiring software engineers to thrive. 
  
@@ -84,6 +84,8 @@ Then *follows* our core crews on GitHub!
 
 In GitHub, we "Stars" organization repositories and "Follow" individuals. Look for the "Stars" button at the top right of the page when you are in a repository. Also, follow each other to see what others in the group are doing.
 
+Lastly, we need you to join our community in our [Discord chat][Discord] and then navigate to the `#first-steps` channel.
+
 ### Setting up your development environment
 
 We are software engineers use CLI or terminal to do many things, and we encourage you to do so. The terminal will evolve but will be there for foreseeable future. For **Linux** and **Mac** users there is no additional step, they already provide us with terminal utility. However, for **Windows** we suggest install [Git Bash where you can download it here][GitBash] and get installation for Windows operating system.
@@ -92,9 +94,16 @@ We are software engineers use CLI or terminal to do many things, and we encourag
 
 One of the simplest but most powerful text editors out there is Vim. If you want to see what Vim can do and how powerful it can be, you can learn more about [Vim here][LearnVim]. Vim is not necessary for this internship, but it is truly helpful when working with Terminal and Git.
 
-## Step 1 - Installing Ngecilin in your computer
+## Step 1 - Install Ngecilin in your computer
+
+The first step is we want you to taste how it's like to grab somebody else's code from the internet from the project that we have in the company. Ngecilin has already good documentation that you can follow in [its repositories][Ngecilin].
 
 ## Step 2 - Learn how to use SSH
+
+After you are able to install Ngecilin we will soon start our social coding journey. The goals of this step are the following.
+
+* Learn how SSH encryption works by reading this [article][LearnSSH].
+* Add your own SSH public key to GitHub to ease your development. You can learn about this in this [documentation][GH-add-ssh].
 
 ## Step 3 - Markdown and Fork Tutorial
 
@@ -134,3 +143,6 @@ Put any link below
 [mima]: https://github.com/Mima-mim
 [GitBash]: https://git-scm.com/downloads
 [LearnVim]: https://danielmiessler.com/study/vim/#textobjects
+[Ngecilin]: https://github.com/kulkultech/ngecilin
+[LearnSSH]: https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process
+[GH-add-ssh]: https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
