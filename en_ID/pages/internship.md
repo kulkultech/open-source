@@ -70,6 +70,7 @@ Complete the [New Virtual Intern Application form][Apply]. If you have already d
 
 Log into your GitHub account then **stars** the following repositories
 
+- [Open-source MDwiki][open-source]
 - [Ngecilin][Ngecilin] - A Browser Extension to shorten any URL with only 2-clicks.
 - [tinyurl-client](https://github.com/kulkultech/tinyurl-client) - A Library to use TinyURL API in the Browser.
 - [jumpstart-swe](https://github.com/kulkultech/jumpstart-swe) - A project to help aspiring software engineers to thrive. 
@@ -96,9 +97,13 @@ One of the simplest but most powerful text editors out there is Vim. If you want
 
 ## Step 1 - Install Ngecilin in your computer
 
+Note: No GitHub Issues or Pull Requests expected from this stage, but if you have one, it will be appreciated.
+
 The first step is we want you to taste how it's like to grab somebody else's code from the internet from the project that we have in the company. Ngecilin has already good documentation that you can follow in [its repositories][Ngecilin].
 
 ## Step 2 - Learn how to use SSH
+
+Note: We hope you're able to use SSH key authentication in your GitHub after finishing this step.
 
 After you are able to install Ngecilin we will soon start our social coding journey. The goals of this step are the following.
 
@@ -108,6 +113,8 @@ After you are able to install Ngecilin we will soon start our social coding jour
 ## Step 3 - Markdown and Fork Tutorial
 
 Note: At the end of this step you will submit **1 Pull Request**.
+‎
+It should be made in [kulkultech/open-source][open-source] repository.
 
 To finish this step you can follow the tutorial below.
 
@@ -132,6 +139,7 @@ Note: At the end of this step, you will have the following finished.
 - **2 pull requests made** (one at step 3 and one at step 6)
 - **1 comment added** (on an issue you didn't create)
 - **1 issue created**
+It should be made in [kulkultech/open-source][open-source] repository.
 
 Follow the GitHub Issues tutorial video below to create at least one issue. Post a link in [Discord][Discord] whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. 
 
@@ -154,6 +162,7 @@ Note: At the end of this step, you will have the following finished.
 - **5 merged pull requests** (one at step 3, one at step 6 and three at step 8)
 - **4 comments made** on issues you didn't create (one at step 6 and three at step 8)
 - **4 issues created** (one at step 6 and three at step 8)
+It should be made in [kulkultech/open-source][open-source] repository.
 
 
 In this step, we will adopt the motto of "Practice makes Perfect". You will follow the same steps as in Step 6, continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
@@ -212,3 +221,4 @@ Put any link below
 [GitHubIssues]: https://www.loom.com/share/74cf3d969c0e43ed9a4e6e3d57f9bc07
 [MySQLDockerThumb]: https://cdn.loom.com/sessions/thumbnails/5e1d6e098325493d94b876b5e395037b-00001.gif
 [MySQLDocker]: https://www.loom.com/share/5e1d6e098325493d94b876b5e395037b
+[open-source]: https://github.com/kulkultech/open-source
