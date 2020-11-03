@@ -2,7 +2,8 @@
 
 ## Virtual Internship
 
-The FAQ is not available yet.
+### Do Pull requests need to be merged first to be counted valid?
+* Pull requests need to be merge except one in the Step 3.
 
 ## Open-source Project
 
