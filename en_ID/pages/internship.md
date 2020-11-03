@@ -116,6 +116,8 @@ Note: At the end of this step you will submit **1 Pull Request**.
 ‎
 It should be made in [kulkultech/open-source][open-source] repository.
 
+In this step we will cover several things, the first is about **Markdown**. What is Markdown and how to use it will be explained in this video. To make it easier to understand it is recommended to open https://markdownlivepreview.com/, this is a tool to see a live preview of the markdown that has been written. Then we will explain how to make a copy of a repository by forking it and make some changes. And finally, we demonstrated how to create a pull request.
+
 To finish this step you can follow the tutorial below.
 
 [![][MarkdownTutorialThumb]][MarkdownTutorial]
