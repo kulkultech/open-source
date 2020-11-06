@@ -130,12 +130,12 @@ To finish this step you can follow the tutorial below.
 
 ## Step 5 - Keeping fork updated
 
-At this fifth stage, we will discuss a little how to keeping fork updated. So the goal is how we can get the latest version from the upstream repository and then merge the new changes into your fork.
+At this fifth stage, we will discuss a little how-to to keeping fork updated. So the goal is how we can get the latest version from the upstream repository and then merge the new changes into your fork.
 
-Note: you can follow this steps.
-1. Add the original remote url repository with this command `git remote add upstream <REPO_URL>` ,the original repository is mostly called `upstream`.
-2. To make sure remote is added, you can check with this command `git remote -v`.
-3. Now, to keep `upstream` updated run this command `git fetch upstream`.
+Note: you can follow this steps below<br />
+**1**. Add the original remote URL repository with this command `git remote add upstream <REPO_URL>` ,the original repository is mostly called `upstream`.
+**2**. To make sure remote is added, you can check with this command `git remote -v`.
+**3**. Now, to keep `upstream` updated run this command `git fetch upstream`.
 
 To finish this step you can follow the tutorial below.
 
