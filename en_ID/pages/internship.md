@@ -16,7 +16,7 @@ Below are positions that we're looking for
 * Product Design Intern
 * Sales Development Representative Intern
 
-We are a tech-based company and software engineering is at the heart of our company. So although some positions are less technical, we expect all aspiring interns to go through the same First Step Process. In the following section, you'll learn how to finish the first step. However, the completion of the first step is not a guarantee to get the positions. As each intern will be exclusively **mentored** by our team **(a mentorship that worth more than $6k)**, only selected aspiring interns will be selected as our intern. 
+We are a tech-based company and software engineering is at the heart of our company. So although some positions are less technical, we expect all aspiring interns to go through the same First Step Process. In the following section, you'll learn how to finish the first step. However, the completion of the first step is not a guarantee to get the positions. As each intern will be exclusively **mentored** by our team **(a mentorship that worth more than $6k)**, only selected aspiring interns will be selected as our intern.
 
 ## Duration and time commitment
 
@@ -73,8 +73,8 @@ Log into your GitHub account then **stars** the following repositories
 - [Open-source MDwiki][open-source]
 - [Ngecilin][Ngecilin] - A Browser Extension to shorten any URL with only 2-clicks.
 - [tinyurl-client](https://github.com/kulkultech/tinyurl-client) - A Library to use TinyURL API in the Browser.
-- [jumpstart-swe](https://github.com/kulkultech/jumpstart-swe) - A project to help aspiring software engineers to thrive. 
- 
+- [jumpstart-swe](https://github.com/kulkultech/jumpstart-swe) - A project to help aspiring software engineers to thrive.
+
 Then *follows* our core crews on GitHub!
 
 - [empeje][empeje]
@@ -130,6 +130,13 @@ To finish this step you can follow the tutorial below.
 
 ## Step 5 - Keeping fork updated
 
+At this fifth stage, we will discuss a little how to keeping fork updated. So the goal is how we can get the latest version from the upstream repository and then merge the new changes into your fork.
+
+Note: you can follow this steps.
+1. Add the original remote url repository with this command `git remote add upstream <REPO_URL>` ,the original repository is mostly called `upstream`.
+2. To make sure remote is added, you can check with this command `git remote -v`.
+3. Now, to keep `upstream` updated run this command `git fetch upstream`.
+
 To finish this step you can follow the tutorial below.
 
 [![][SyncForkThumb]][SyncFork]
@@ -143,7 +150,7 @@ Note: At the end of this step, you will have the following finished.
 - **1 issue created**
 It should be made in [kulkultech/open-source][open-source] repository.
 
-Follow the GitHub Issues tutorial video below to create at least one issue. Post a link in [Discord][Discord] whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. 
+Follow the GitHub Issues tutorial video below to create at least one issue. Post a link in [Discord][Discord] whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice.
 
 No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all the issues that you file. You can also work on issues that you didn't create.
 
