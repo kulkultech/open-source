@@ -124,6 +124,8 @@ To finish this step you can follow the tutorial below.
 
 ## Step 4 - System tutorial and Docker
 
+In this fourth step, we will get acquainted with Docker. What is Docker? Docker is a program that can help us to run and develop applications in any operating system. By using Docker we can run applications that are packed into Container. Container contains whatever is needed by our application, in order to run properly in this case the libraries or dependencies required by the application. Docker is available on various platforms including [Windows][docker-windows], [Linux][docker-linux], and [macOS][docker-macos].
+
 To finish this step you can follow the tutorial below.
 
 [![][DockerTutorialThumb]][DockerTutorial]
@@ -224,3 +226,6 @@ Put any link below
 [MySQLDockerThumb]: https://cdn.loom.com/sessions/thumbnails/5e1d6e098325493d94b876b5e395037b-00001.gif
 [MySQLDocker]: https://www.loom.com/share/5e1d6e098325493d94b876b5e395037b
 [open-source]: https://github.com/kulkultech/open-source
+[docker-windows]: https://docs.docker.com/docker-for-windows/install/
+[docker-linux]: https://docs.docker.com/engine/install/#server
+[docker-macos]: https://docs.docker.com/docker-for-mac/install/
