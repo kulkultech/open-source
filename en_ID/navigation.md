@@ -23,6 +23,7 @@
 
   * [**Introduction / First Steps**](pages/internship.md#First_Step)
   * [FAQ](pages/faq.md)
+  * [Progress Tracker](pages/progress.md)
   - - - -
   * [Step 0 - Introductory Steps](pages/internship.md#Step_0_-_Introductory_steps)
   * [Step 1 - Installing Ngecilin in your computer](pages/internship.md#Step_0_-_Introductory_steps)
