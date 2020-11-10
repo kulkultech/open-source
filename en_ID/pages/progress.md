@@ -23,24 +23,28 @@ const button = document.getElementById('btn-submit')
 const resultsContainer = document.getElementById('check-list')
 
 const checkPullRequests = async (value) => {
-  try {
-    const response = await fetch(
-      `https://api.github.com/search/issues?q=is:pr+repo:kulkultech/open-source+author:${value}`,
-    )
-    const results = await response.json()
-    return results
-  } catch (e) {
-    throw new Error(e)
-  }
+  let response = await Promise.all([
+    fetch(`https://api.github.com/search/issues?q=is:pr+repo:kulkultech/open-source+author:${value}`).then(value => value.json()),
+    fetch(`https://api.github.com/search/issues?q=is:issue+repo:kulkultech/open-source+author:${value}`).then(value => value.json()),
+    fetch(`https://api.github.com/search/issues?q=in:comments+repo:kulkultech/open-source+author:${value}`).then(value => value.json())
+  ])
+  return response
 }
 
 const showData = () => {
   checkPullRequests(username.value).then((res) => {
     console.log(res)
-    const loop = res.items.map((user,index) => {
-      return `<li>${index + 1}:  ${user.title} <span><a href=${user.pull_request.html_url}>Link</a></span></li>`
-    })
-    resultsContainer.innerHTML = loop.join(' ')
+    const pull_requests = res[0].items.length
+    const issues = res[1].items.length
+    const comments = res[2].items.length
+
+    resultsContainer.innerHTML = `
+    <li>Progress for ${username.value}</li>
+    <br />
+    <li>Numbers of Pull Requests: ${pull_requests} / 5</li>
+    <li>Numbers of Issues: ${issues} / 4</li>
+    <li>Numbers of Comments: ${comments} / 4</li>
+    `
   })
 }
 
