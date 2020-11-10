@@ -24,7 +24,7 @@ const resultsContainer = document.getElementById('check-list')
 
 const checkPullRequests = async (value) => {
   let response = await Promise.all([
-    fetch(`https://api.github.com/search/issues?q=is:pr+repo:kulkultech/open-source+author:${value}`).then(value => value.json()),
+    fetch(`https://api.github.com/search/issues?q=is:merged+repo:kulkultech/open-source+author:${value}`).then(value => value.json()),
     fetch(`https://api.github.com/search/issues?q=is:issue+repo:kulkultech/open-source+author:${value}`).then(value => value.json()),
     fetch(`https://api.github.com/search/issues?q=in:comments+repo:kulkultech/open-source+author:${value}`).then(value => value.json())
   ])
@@ -41,7 +41,7 @@ const showData = () => {
     resultsContainer.innerHTML = `
     <li>Progress for ${username.value}</li>
     <br />
-    <li>Numbers of Pull Requests: ${pull_requests} / 5</li>
+    <li>Numbers of Merged Pull Requests: ${pull_requests} / 5</li>
     <li>Numbers of Issues: ${issues} / 4</li>
     <li>Numbers of Comments: ${comments} / 4</li>
     `
