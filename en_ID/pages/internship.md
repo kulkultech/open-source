@@ -6,12 +6,15 @@ Kulkul.tech internship program where you'll learn how modern software developmen
 
 Below are positions that we're looking for
 
+### Technical Internship
 * Software Engineering Intern (Android, Flutter)
 * Software Engineering Intern (iOS, Flutter)
 * Software Engineering Intern (Frontend, JavaScript)
 * Software Engineering Intern (Frontend, Elm)
 * Software Engineering Intern (Frontend, WordPress)
 * Technical Writing Intern
+
+### Non-technical Internship
 * Digital Marketing Intern
 * Product Design Intern
 * Sales Development Representative Intern
@@ -68,7 +71,7 @@ There is no official deadline to complete these steps, but most candidates who a
 
 Complete the [New Virtual Intern Application form][Apply]. If you have already done this after being invited to join the team then good job, you're all set!
 
-Log into your GitHub account then **stars** the following repositories
+Register and log into your GitHub account then **stars** the following repositories
 
 - [Open-source MDwiki][open-source]
 - [Ngecilin][Ngecilin] - A Browser Extension to shorten any URL with only 2-clicks.
@@ -93,17 +96,25 @@ We are software engineers use CLI or terminal to do many things, and we encourag
 
 ### Working with Vim
 
+Note: This not required for a non-technical candidate.
+
 One of the simplest but most powerful text editors out there is Vim. If you want to see what Vim can do and how powerful it can be, you can learn more about [Vim here][LearnVim]. Vim is not necessary for this internship, but it is truly helpful when working with Terminal and Git.
 
 ## Step 1 - Install Ngecilin in your computer
 
-Note: No GitHub Issues or Pull Requests expected from this stage, but if you have one, it will be appreciated.
+Note:
+‎
+- No GitHub Issues or Pull Requests expected from this stage, but if you have one, it will be appreciated.
+- This not required for a non-technical candidate.
 
 The first step is we want you to taste how it's like to grab somebody else's code from the internet from the project that we have in the company. Ngecilin has already good documentation that you can follow in [its repositories][Ngecilin].
 
 ## Step 2 - Learn how to use SSH
 
-Note: We hope you're able to use SSH key authentication in your GitHub after finishing this step.
+Note:
+‎
+- This not required for a non-technical candidate.
+- We hope you're able to use SSH key authentication in your GitHub after finishing this step.
 
 After you are able to install Ngecilin we will soon start our social coding journey. The goals of this step are the following.
 
@@ -124,6 +135,8 @@ To finish this step you can follow the tutorial below.
 
 ## Step 4 - System tutorial and Docker
 
+Note: This not required for a non-technical candidate.
+
 In this fourth step, we will get acquainted with Docker. What is Docker? Docker is a program that can help us to run and develop applications in any operating system. By using Docker we can run applications that are packed into Container. Container contains whatever is needed by our application, in order to run properly in this case the libraries or dependencies required by the application. Docker is available on various platforms including [Windows][docker-windows], [Linux][docker-linux], and [macOS][docker-macos].
 
 To finish this step you can follow the tutorial below.
@@ -131,6 +144,8 @@ To finish this step you can follow the tutorial below.
 [![][DockerTutorialThumb]][DockerTutorial]
 
 ## Step 5 - Keeping fork updated
+
+Note: This not required for a non-technical candidate. A non-technical candidate can use [GitHub Codespace][codespace] or directly on GitHub graphical user interface.
 
 At this fifth stage, we will discuss a little how-to to keeping fork updated. So the goal is how we can get the latest version from the upstream repository and then merge the new changes into your fork.
 
@@ -161,6 +176,8 @@ Make sure you have created at least one issue, resolved it, commented on an issu
 [![][GitHubIssuesThumb]][GitHubIssues]
 
 ## Step 7 - Run another service on top of Docker
+
+Note: This not required for a non-technical candidate.
 
 To finish this step you can follow the tutorial below.
 
@@ -236,3 +253,4 @@ Put any link below
 [docker-windows]: https://docs.docker.com/docker-for-windows/install/
 [docker-linux]: https://docs.docker.com/engine/install/#server
 [docker-macos]: https://docs.docker.com/docker-for-mac/install/
+[codespace]: https://github.com/features/codespaces
