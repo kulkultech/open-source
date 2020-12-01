@@ -88,7 +88,7 @@ Then *follows* our core crews on GitHub!
 
 In GitHub, we "Stars" organization repositories and "Follow" individuals. Look for the "Stars" button at the top right of the page when you are in a repository. Also, follow each other to see what others in the group are doing.
 
-Lastly, we need you to join our community in our [Discord chat][Discord] and then navigate to the `#first-steps` channel.
+Lastly, we need you to join our community in [Telegram][Telegram]. And then please also join [Discord chat][Discord] then navigate to the `#first-steps` channel.
 
 ### Setting up your development environment
 
@@ -228,6 +228,7 @@ Put any link below
 [Elm]: https://elm-lang.org/
 [FAQ]: faq.md
 [Discord]: https://discord.gg/AYvyGpb7aP
+[Telegram]: https://t.me/joinchat/Kk203VMsVapIi-U9-BQzkw
 [Apply]: https://kulkul.typeform.com/to/gqlnq2rt
 [empeje]: https://github.com/empeje
 [yuliefas]: https://github.com/yuliefas
