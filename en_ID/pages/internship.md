@@ -76,6 +76,7 @@ Register and log into your GitHub account then **stars** the following repositor
 - [Open-source MDwiki][open-source]
 - [Ngecilin][Ngecilin] - A Browser Extension to shorten any URL with only 2-clicks.
 - [tinyurl-client](https://github.com/kulkultech/tinyurl-client) - A Library to use TinyURL API in the Browser.
+- [bitly-client](https://github.com/kulkultech/bitly-client) - A Library to use BitLy API in the Browser.
 - [jumpstart-swe](https://github.com/kulkultech/jumpstart-swe) - A project to help aspiring software engineers to thrive.
 
 Then *follows* our core crews on GitHub!

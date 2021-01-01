@@ -17,4 +17,5 @@ We're running our year-long internship program. If you're interested please reac
 
 - [Ngecilin](https://github.com/kulkultech/ngecilin) - A Browser Extension to shorten any URL with only 2-clicks.
 - [tinyurl-client](https://github.com/kulkultech/tinyurl-client) - A Library to use TinyURL API in the Browser.
+- [bitly-client](https://github.com/kulkultech/bitly-client) - A Library to use BitLy API in the Browser.
 - [jumpstart-swe](https://github.com/kulkultech/jumpstart-swe) - A project to help aspiring software engineers to thrive.
