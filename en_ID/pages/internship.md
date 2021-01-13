@@ -68,7 +68,6 @@ A very large part of these steps is finding problems with these steps and this M
 There is no official deadline to complete these steps, but most candidates who are approved for the internship program finished the steps within 7-8 days. Good luck!
 
 <!DOCTYPE html>
-
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -91,10 +90,9 @@ There is no official deadline to complete these steps, but most candidates who a
         flex-wrap: nowrap;            
         justify-content: space-between;
         background-color: lightyellow;
-        }
+       }
     </style>
   </head>
-  
   <body>
     <div class = "container">
         <div class="boxed">
