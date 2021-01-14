@@ -67,96 +67,151 @@ A very large part of these steps is finding problems with these steps and this M
 
 There is no official deadline to complete these steps, but most candidates who are approved for the internship program finished the steps within 7-8 days. Good luck!
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page Title</title>
-    <style>
-      .boxed {
-        background: #E74C3C;
-        color: #E5E7E9;
-        border: 3px #E74C3C;
-        margin: 0px auto;
-        width: 230px;
-        height: 200px;
-        padding: 5px;
-        border-radius: 10px;
-      }
-     .container {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: nowrap;            
-        justify-content: space-between;
-        background-color: lightyellow;
-       }
-    </style>
-  </head>
-  <body>
-    <div class = "container">
-        <div class="boxed">
-        <h2 align = "center"><a style = "color:#E5E7E9"href="steps/step0.md">Step 0</h2>
-          <h3 style="color:Black">Introductory steps</h3>
-          Complete the New Virtual...<br>
-        </div>
-        <div class="boxed">
-          <h2 align = "center"><a style = "color:#E5E7E9"href="steps/step1.md">Step 1</h2>
-          <h3 style="color:Black">Install Ngecilin in your<br> computer</h3>
-          The first step is we want...<br>
-        </div>
-        <div class="boxed">
-          <h2 align = "center"><a style = "color:#E5E7E9"href="steps/step2.md">Step 2</h2>
-          <h3 style="color:Black">Learn how to use SSH</h3>
-          After you are able...<br>
-        </div>
-    </div>
-    <p>
-    <div class = "container">
-        <div class="boxed">
-        <h2 align = "center"><a style = "color:#E5E7E9"href="steps/step3.md">Step 3</h2>
-          <h3 style="color:Black">System tutorial and<br> Docker</h3>
-          In this step we will...<br>
-        </div>
-        <div class="boxed">
-          <h2 align = "center"><a style = "color:#E5E7E9"href="steps/step4.md">Step 4</h2>
-          <h3 style="color:Black">Keeping fork updated</h3>
-          In this fourth step...<br>
-        </div>
-        <div class="boxed">
-          <h2 align = "center"><a style = "color:#E5E7E9"href="steps/step5.md">Step 5</h2>
-          <h3 style="color:Black">GitHub Issues Tutorial</h3>
-          At this fifth stage...<br>
-        </div>
-    </div>
-    <p>
-    <div class = "container">
-        <div class="boxed">
-        <h2 align="center"><a style = "color:#E5E7E9"href="steps/step6.md">Step 6</h2>
-          <h3 style="color:Black">Run another service<br>  on top ofDocker</h3>
-          Follow the GitHub...<br> 
-        </div>
-        <div class="boxed">
-          <h2 align = "center"><a style = "color:#E5E7E9"href="steps/step7.md">Step 7</h2>
-          <h3 style="color:Black">Create issues and pull<br> request</h3>
-          To finish this step...<br>
-        </div>
-        <div class="boxed">
-          <h2 align = "center"><a style = "color:#E5E7E9"href="steps/step8.md">Step 8</h2>
-          <h3 style="color:Black"> Create issues and <br>pull request</h3>
-          In this step...<br>
-        </div>
-    </div>
-    <p>
-    <div class="boxed">
-        <h2 align="center"><a style = "color:#E5E7E9"href="steps/step9.md">Step 9</h2>
-          <h3 style="color:Black">Be a part of the team</h3>
-          Follow the GitHub...<br> 
-        </div>
-    <div>
-  </body>
-</html>
+## Step 0 - Introductory steps
 
+Complete the [New Virtual Intern Application form][Apply]. If you have already done this after being invited to join the team then good job, you're all set!
+
+Register and log into your GitHub account then **stars** the following repositories
+
+- [Open-source MDwiki][open-source]
+- [Ngecilin][Ngecilin] - A Browser Extension to shorten any URL with only 2-clicks.
+- [tinyurl-client](https://github.com/kulkultech/tinyurl-client) - A Library to use TinyURL API in the Browser.
+- [bitly-client](https://github.com/kulkultech/bitly-client) - A Library to use BitLy API in the Browser.
+- [jumpstart-swe](https://github.com/kulkultech/jumpstart-swe) - A project to help aspiring software engineers to thrive.
+
+Then *follows* our core crews on GitHub!
+
+- [empeje][empeje]
+- [yuliefas][yuliefas]
+- [hudakurniawan][hudakurniawan]
+- [Mima-mim][mima]
+- [gitandini][gitandini]
+
+In GitHub, we "Stars" organization repositories and "Follow" individuals. Look for the "Stars" button at the top right of the page when you are in a repository. Also, follow each other to see what others in the group are doing.
+
+Lastly, we need you to join our community in [Telegram][Telegram]. And then please also join [Discord chat][Discord] then navigate to the `#first-steps` channel.
+
+### Setting up your development environment
+
+We are software engineers use CLI or terminal to do many things, and we encourage you to do so. The terminal will evolve but will be there for foreseeable future. For **Linux** and **Mac** users there is no additional step, they already provide us with terminal utility. However, for **Windows** we suggest install [Git Bash where you can download it here][GitBash] and get installation for Windows operating system.
+
+### Working with Vim
+
+Note: This not required for a non-technical candidate.
+
+One of the simplest but most powerful text editors out there is Vim. If you want to see what Vim can do and how powerful it can be, you can learn more about [Vim here][LearnVim]. Vim is not necessary for this internship, but it is truly helpful when working with Terminal and Git.
+
+## Step 1 - Install Ngecilin in your computer
+
+Note:
+‎
+- No GitHub Issues or Pull Requests expected from this stage, but if you have one, it will be appreciated.
+- This not required for a non-technical candidate.
+
+The first step is we want you to taste how it's like to grab somebody else's code from the internet from the project that we have in the company. Ngecilin has already good documentation that you can follow in [its repositories][Ngecilin].
+
+## Step 2 - Learn how to use SSH
+
+Note:
+‎
+- This not required for a non-technical candidate.
+- We hope you're able to use SSH key authentication in your GitHub after finishing this step.
+
+After you are able to install Ngecilin we will soon start our social coding journey. The goals of this step are the following.
+
+* Learn how SSH encryption works by reading this [article][LearnSSH].
+* Add your own SSH public key to GitHub to ease your development. You can learn about this in this [documentation][GH-add-ssh].
+
+## Step 3 - Markdown and Fork Tutorial
+
+Note: At the end of this step you will submit **1 Pull Request**.
+‎
+It should be made in [kulkultech/open-source][open-source] repository.
+
+In this step we will cover several things, the first is about **Markdown**. What is Markdown and how to use it will be explained in this video. To make it easier to understand it is recommended to open https://markdownlivepreview.com/, this is a tool to see a live preview of the markdown that has been written. Then we will explain how to make a copy of a repository by forking it and make some changes. And finally, we demonstrated how to create a pull request.
+
+To finish this step you can follow the tutorial below.
+
+[![][MarkdownTutorialThumb]][MarkdownTutorial]
+
+## Step 4 - System tutorial and Docker
+
+Note: This not required for a non-technical candidate.
+
+In this fourth step, we will get acquainted with Docker. What is Docker? Docker is a program that can help us to run and develop applications in any operating system. By using Docker we can run applications that are packed into Container. Container contains whatever is needed by our application, in order to run properly in this case the libraries or dependencies required by the application. Docker is available on various platforms including [Windows][docker-windows], [Linux][docker-linux], and [macOS][docker-macos].
+
+To finish this step you can follow the tutorial below.
+
+[![][DockerTutorialThumb]][DockerTutorial]
+
+## Step 5 - Keeping fork updated
+
+Note: This not required for a non-technical candidate. A non-technical candidate can use [GitHub Codespace][codespace] or directly on GitHub graphical user interface.
+
+At this fifth stage, we will discuss a little how-to to keeping fork updated. So the goal is how we can get the latest version from the upstream repository and then merge the new changes into your fork.
+
+Note: you can follow this steps below<br />
+**1**. Add the original remote URL repository with this command `git remote add upstream <REPO_URL>` ,the original repository is mostly called `upstream`.
+**2**. To make sure remote is added, you can check with this command `git remote -v`.
+**3**. Now, to keep `upstream` updated run this command `git fetch upstream`.
+
+To finish this step you can follow the tutorial below.
+
+[![][SyncForkThumb]][SyncFork]
+
+## Step 6 - GitHub Issues Tutorial
+
+Note: At the end of this step, you will have the following finished.
+‎
+- **2 pull requests made** (one at step 3 and one at step 6)
+- **1 comment added** (on an issue you didn't create)
+- **1 issue created**
+It should be made in [kulkultech/open-source][open-source] repository.
+
+Follow the GitHub Issues tutorial video below to create at least one issue. Post a link in [Discord][Discord] whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice.
+
+No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all the issues that you file. You can also work on issues that you didn't create.
+
+Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged. You may continue making Issues, Pull requests and Comments, or move on to the next step, while you are waiting for your pull request to be merged. The approval process for your Step 6 fixes may take time, but it is OK to continue working.
+
+[![][GitHubIssuesThumb]][GitHubIssues]
+
+## Step 7 - Run another service on top of Docker
+
+Note: This not required for a non-technical candidate.
+
+To finish this step you can follow the tutorial below.
+
+[![][MySQLDockerThumb]][MySQLDocker]
+
+## Step 8 - Create issues and pull request
+
+Note: At the end of this step, you will have the following finished.
+‎
+- **5 merged pull requests** (one at step 3, one at step 6 and three at step 8)
+- **4 comments made** on issues you didn't create (one at step 6 and three at step 8)
+- **4 issues created** (one at step 6 and three at step 8)
+It should be made in [kulkultech/open-source][open-source] repository.
+
+
+In this step, we will adopt the motto of "Practice makes Perfect". You will follow the same steps as in Step 6, continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
+
+You should:
+
+* **Add comments** to three issues other than your own (somebody else's issue) Create three new issues (in addition to those you have already created in previous steps)
+* Get approval to **work on the issues** you have created. Make sure someone from the Kulkul's team confirms that you should work on the issue **BEFORE** you start to work on it. Resolve the three issues by making the necessary changes in your repo with three separate pull requests.
+
+Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more!
+
+You must have made your pull requests and have them each approved by at least two other Kulkul.tech team members/interns in order for it to be merged to the upstream repository. Just as before, announce your Pull Request on the [Discord chat][Discord] so other members can review it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
+
+NOTE: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request and make a new branch for every new issue from the master branch.
+
+## Step 9 - Be part of the team
+
+Next thing is to post a screenshot of your completed progress to the [Discord chat room][Discord]. Currently, there's no automatic way to progress (potential issue and PR you can create!), but you can post the screenshot manually.
+
+Message us ("@/all" and "@rrachman") and ask about adding yourself to the virtual intern list found in `interns.md` and setting up a meeting, so you can become a part of the team as soon as possible if you're considered well suited.
 
 <!---
 Put any link below
