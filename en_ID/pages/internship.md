@@ -67,7 +67,7 @@ A very large part of these steps is finding problems with these steps and this M
 
 There is no official deadline to complete these steps, but most candidates who are approved for the internship program finished the steps within 7-8 days. Good luck!
 
-__
+___
 
 ## Step 0 - Introductory steps
 
@@ -103,7 +103,7 @@ Note: This not required for a non-technical candidate.
 
 One of the simplest but most powerful text editors out there is Vim. If you want to see what Vim can do and how powerful it can be, you can learn more about [Vim here][LearnVim]. Vim is not necessary for this internship, but it is truly helpful when working with Terminal and Git.
 
-__
+___
 
 ## Step 1 - Install Ngecilin in your computer
 
@@ -114,7 +114,7 @@ Note:
 
 The first step is we want you to taste how it's like to grab somebody else's code from the internet from the project that we have in the company. Ngecilin has already good documentation that you can follow in [its repositories][Ngecilin].
 
-__
+___
 
 ## Step 2 - Learn how to use SSH
 
@@ -128,7 +128,7 @@ After you are able to install Ngecilin we will soon start our social coding jour
 * Learn how SSH encryption works by reading this [article][LearnSSH].
 * Add your own SSH public key to GitHub to ease your development. You can learn about this in this [documentation][GH-add-ssh].
 
-__
+___
 
 ## Step 3 - Markdown and Fork Tutorial
 
@@ -142,7 +142,7 @@ To finish this step you can follow the tutorial below.
 
 [![][MarkdownTutorialThumb]][MarkdownTutorial]
 
-__
+___
 
 ## Step 4 - System tutorial and Docker
 
@@ -154,7 +154,7 @@ To finish this step you can follow the tutorial below.
 
 [![][DockerTutorialThumb]][DockerTutorial]
 
-__
+___
 
 ## Step 5 - Keeping fork updated
 
@@ -171,7 +171,7 @@ To finish this step you can follow the tutorial below.
 
 [![][SyncForkThumb]][SyncFork]
 
-__
+___
 
 ## Step 6 - GitHub Issues Tutorial
 
@@ -190,7 +190,7 @@ Make sure you have created at least one issue, resolved it, commented on an issu
 
 [![][GitHubIssuesThumb]][GitHubIssues]
 
-__
+___
 
 ## Step 7 - Run another service on top of Docker
 
@@ -200,7 +200,7 @@ To finish this step you can follow the tutorial below.
 
 [![][MySQLDockerThumb]][MySQLDocker]
 
-__
+___
 
 ## Step 8 - Create issues and pull request
 
@@ -225,7 +225,7 @@ You must have made your pull requests and have them each approved by at least tw
 
 NOTE: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request and make a new branch for every new issue from the master branch.
 
-__
+___
 
 ## Step 9 - Be part of the team
 
