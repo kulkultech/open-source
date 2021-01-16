@@ -12,6 +12,7 @@ The important point for vreating branch is CREATE BRANCH FROM YOUR MASTER BRANCH
 git status
 ```
 ![Branch Image](images/Branch-image.png)
+
 Be sure to be on the master Branch of your project.
 - Then create a new breanch from master branch.
 ```
