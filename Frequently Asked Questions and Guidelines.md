@@ -11,7 +11,7 @@ The important point for vreating branch is CREATE BRANCH FROM YOUR MASTER BRANCH
 ```
 git status
 ```
-![Branch Image][images/Branch-image.png]
+![Branch Image](images/Branch-image.png)
 Be sure to be on the master Branch of your project.
 - Then create a new breanch from master branch.
 ```
@@ -41,6 +41,6 @@ git push origin [your branch dir/your branch name]
 - Github automatically ask you if you want to create PR with your changes.
 - If you cant see automatic PR from github;
 	- Click branch drop down list
-	![Branch list Image][images/Branch-list-image.png]
+	![Branch list Image](images/Branch-list-image.png)
 	- Create PR from the branches that you made commit.
-	![Branch PR Image][images/Branch-pr.png]
+	![Branch PR Image](images/Branch-pr.png)
