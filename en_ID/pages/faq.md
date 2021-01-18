@@ -28,25 +28,30 @@ git status
 
 * Be sure to be on the master Branch of your project.
 * Then create a new branch from master branch.
+
 ```
 git checkout -b [your branch dir/your branch name]
 ```
 * This command will create a new branch and bring you to this branch.
 * Then do your changes on project.
 * Check status.
+
 ```
 git status
 ``` 
 * You should see your changes.
 * Add this changes.
+
 ```
 git add .
 ```
 * Commit your changes on your local repo. Always write comment on your commits.
+
 ```
 git commit -m "[your message]"
 ```
 * Commit your changes to remote repo (at Github.com).
+
 ```
 git push origin [your branch dir/your branch name]
 ``` 
