@@ -194,6 +194,14 @@ ___
 
 ## Step 7 - Run another service on top of Docker
 
+As explained before at [Step 4](pages/internship.md#Step_4_-_System_tutorial_and_Docker) Docker is a service that you can install all necessary libraries and other stuff for your apps to run properly.
+
+In this step you will how to install an application to your Docker container. In summary, there is two methods to install an application to your container.
+
+One is, you can use command line and the other way is using docker-compose.
+
+In the video below, you will find hot to install MySQL with both ways.
+
 Note: This not required for a non-technical candidate.
 
 To finish this step you can follow the tutorial below.
