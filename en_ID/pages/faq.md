@@ -20,7 +20,6 @@ The important point for creating branch is CREATE BRANCH FROM YOUR MASTER BRANCH
 * Open the Terminal
 * Go to your project directory
 * Check current status.
-* Updated
 
 ```
 git status
@@ -66,7 +65,7 @@ git push origin [your branch dir/your branch name]
 * Click branch drop down list
 [![][branchlist-image]]
 * Create PR from the branches that you made commit.
-	[![][branchpr-image]]
+[![][branchpr-image]]
 
 <br />
 
