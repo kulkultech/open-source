@@ -20,10 +20,12 @@ The important point for creating branch is CREATE BRANCH FROM YOUR MASTER BRANCH
 * Open the Terminal
 * Go to your project directory
 * Check current status.
+* Updated
 
 ```
 git status
 ```
+
 [![][branch-image]]
 
 * Be sure to be on the master Branch of your project.
@@ -50,10 +52,12 @@ git add .
 ```
 git commit -m "[your message]"
 ```
+
 * Commit your changes to remote repo (at Github.com).
 
 ```
 git push origin [your branch dir/your branch name]
+
 ``` 
 * As you are using SSH (made on [Step 2](https://open-source.kulkul.tech/en_ID/#!pages/internship.md#Step_2_-_Learn_how_to_use_SSH), this step may ask you your pass (in case you defined))
 * Then you can check github page and see your changes pushed on the server.
