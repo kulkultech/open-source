@@ -24,8 +24,7 @@ The important point for creating branch is CREATE BRANCH FROM YOUR MASTER BRANCH
 ```
 git status
 ```
-
-![][branch-image]
+<img src=images/Branch-image.png alt class="img-responsive img-thumbnail"/>
 
 * Be sure to be on the master Branch of your project.
 * Then create a new branch from master branch.
@@ -63,9 +62,12 @@ git push origin [your branch dir/your branch name]
 * Github automatically ask you if you want to create PR with your changes.
 * If you cant see automatic PR from github;
 * Click branch drop down list
-![][branchlist-image]
+
+<img src=images/Branch-list-image.png alt class="img-responsive img-thumbnail"/>
+
 * Create PR from the branches that you made commit.
-![][branchpr-image]
+
+<img src=images/Branch-pr.png alt class="img-responsive img-thumbnail"/>
 
 <br />
 
@@ -73,6 +75,3 @@ git push origin [your branch dir/your branch name]
 
 The FAQ is not available yet.
 
-[branch-image]:images/Branch-image.png
-[branchlist-image]:images/Branch-list-image.png
-[branchpr-image]:images/Branch-pr.png
