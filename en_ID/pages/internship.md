@@ -107,7 +107,7 @@ Vim has two basic modes; One is insert mode and the other is normal mode.
 
 Vim has lots of shortcuts to manuplate texts. It is so hard to remember all of them unless you use vşm all the time.
 
-For making some pratice with Vim, please check : [Interactive Vim][https://www.openvim.com]
+For making some pratice with Vim, please check : [Interactive Vim](https://www.openvim.com)
 
 Vim is not necessary for this internship, but it is truly helpful when working with Terminal and Git.
 
