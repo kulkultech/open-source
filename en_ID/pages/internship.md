@@ -101,7 +101,15 @@ We are software engineers use CLI or terminal to do many things, and we encourag
 
 Note: This not required for a non-technical candidate.
 
-One of the simplest but most powerful text editors out there is Vim. If you want to see what Vim can do and how powerful it can be, you can learn more about [Vim here][LearnVim]. Vim is not necessary for this internship, but it is truly helpful when working with Terminal and Git.
+One of the simplest but most powerful text editors out there is Vim. If you want to see what Vim can do and how powerful it can be, you can learn more about [Vim here][LearnVim].
+
+Vim has two basic modes; One is insert mode and the other is normal mode.
+
+Vim has lots of shortcuts to manuplate texts. It is so hard to remember all of them unless you use vşm all the time.
+
+For making some pratice with Vim, please check : [Interactive Vim](https://www.openvim.com)
+
+Vim is not necessary for this internship, but it is truly helpful when working with Terminal and Git.
 
 ___
 
