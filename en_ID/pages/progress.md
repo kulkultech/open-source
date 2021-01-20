@@ -105,13 +105,12 @@ NOTE: progress tracker helps you in monitoring how much PR you send in [this](ht
 
 <div class="main-form"><input id="input-username" type="text" placeholder="input github username" name="reg">
 
-    <div class="btn"><button id="btn-submit">Check</button></div>
-    <div class="loader" id="loader"> </div>
+<div class="btn"><button id="btn-submit">Check</button></div>
 
 </div>
 
 <div class="container-results">
-    <ul id="check-list">
+<ul id="check-list">
 
 
 <script>
