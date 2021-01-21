@@ -66,6 +66,7 @@ We also want you to keep us updated a relatively good amount in the [Discord cha
 A very large part of these steps is finding problems with these steps and this MDwiki, so take note of any issues that you run into or suggestions for improvement while doing these steps.
 
 There is no official deadline to complete these steps, but most candidates who are approved for the internship program finished the steps within 7-8 days. Good luck!
+___
 
 ___
 
@@ -121,6 +122,7 @@ Note:
 - This not required for a non-technical candidate.
 
 The first step is we want you to taste how it's like to grab somebody else's code from the internet from the project that we have in the company. Ngecilin has already good documentation that you can follow in [its repositories][Ngecilin].
+___
 
 ___
 
@@ -135,6 +137,7 @@ After you are able to install Ngecilin we will soon start our social coding jour
 
 * Learn how SSH encryption works by reading this [article][LearnSSH].
 * Add your own SSH public key to GitHub to ease your development. You can learn about this in this [documentation][GH-add-ssh].
+___
 
 ___
 
@@ -149,6 +152,7 @@ In this step we will cover several things, the first is about **Markdown**. What
 To finish this step you can follow the tutorial below.
 
 [![][MarkdownTutorialThumb]][MarkdownTutorial]
+___
 
 ___
 
@@ -161,6 +165,7 @@ In this fourth step, we will get acquainted with Docker. What is Docker? Docker 
 To finish this step you can follow the tutorial below.
 
 [![][DockerTutorialThumb]][DockerTutorial]
+___
 
 ___
 
@@ -178,6 +183,7 @@ Note: you can follow this steps below<br />
 To finish this step you can follow the tutorial below.
 
 [![][SyncForkThumb]][SyncFork]
+___
 
 ___
 
@@ -197,6 +203,7 @@ No issue is too big or too small to be filed and it is OK if you are not sure ho
 Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged. You may continue making Issues, Pull requests and Comments, or move on to the next step, while you are waiting for your pull request to be merged. The approval process for your Step 6 fixes may take time, but it is OK to continue working.
 
 [![][GitHubIssuesThumb]][GitHubIssues]
+___
 
 ___
 
@@ -215,6 +222,7 @@ Note: This not required for a non-technical candidate.
 To finish this step you can follow the tutorial below.
 
 [![][MySQLDockerThumb]][MySQLDocker]
+___
 
 ___
 
@@ -240,6 +248,7 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 You must have made your pull requests and have them each approved by at least two other Kulkul.tech team members/interns in order for it to be merged to the upstream repository. Just as before, announce your Pull Request on the [Discord chat][Discord] so other members can review it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
 
 NOTE: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request and make a new branch for every new issue from the master branch.
+___
 
 ___
 
