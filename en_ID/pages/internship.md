@@ -68,6 +68,8 @@ A very large part of these steps is finding problems with these steps and this M
 There is no official deadline to complete these steps, but most candidates who are approved for the internship program finished the steps within 7-8 days. Good luck!
 ___
 
+___
+
 ## Step 0 - Introductory steps
 
 Complete the [New Virtual Intern Application form][Apply]. If you have already done this after being invited to join the team then good job, you're all set!
@@ -100,7 +102,16 @@ We are software engineers use CLI or terminal to do many things, and we encourag
 
 Note: This not required for a non-technical candidate.
 
-One of the simplest but most powerful text editors out there is Vim. If you want to see what Vim can do and how powerful it can be, you can learn more about [Vim here][LearnVim]. Vim is not necessary for this internship, but it is truly helpful when working with Terminal and Git.
+One of the simplest but most powerful text editors out there is Vim. If you want to see what Vim can do and how powerful it can be, you can learn more about [Vim here][LearnVim].
+
+Vim has two basic modes; One is insert mode and the other is normal mode.
+
+Vim has lots of shortcuts to manuplate texts. It is so hard to remember all of them unless you use vşm all the time.
+
+For making some pratice with Vim, please check : [Interactive Vim](https://www.openvim.com)
+
+Vim is not necessary for this internship, but it is truly helpful when working with Terminal and Git.
+
 ___
 
 ## Step 1 - Install Ngecilin in your computer
@@ -111,6 +122,8 @@ Note:
 - This not required for a non-technical candidate.
 
 The first step is we want you to taste how it's like to grab somebody else's code from the internet from the project that we have in the company. Ngecilin has already good documentation that you can follow in [its repositories][Ngecilin].
+___
+
 ___
 
 ## Step 2 - Learn how to use SSH
@@ -126,6 +139,8 @@ After you are able to install Ngecilin we will soon start our social coding jour
 * Add your own SSH public key to GitHub to ease your development. You can learn about this in this [documentation][GH-add-ssh].
 ___
 
+___
+
 ## Step 3 - Markdown and Fork Tutorial
 
 Note: At the end of this step you will submit **1 Pull Request**.
@@ -139,6 +154,8 @@ To finish this step you can follow the tutorial below.
 [![][MarkdownTutorialThumb]][MarkdownTutorial]
 ___
 
+___
+
 ## Step 4 - System tutorial and Docker
 
 Note: This not required for a non-technical candidate.
@@ -148,6 +165,8 @@ In this fourth step, we will get acquainted with Docker. What is Docker? Docker 
 To finish this step you can follow the tutorial below.
 
 [![][DockerTutorialThumb]][DockerTutorial]
+___
+
 ___
 
 ## Step 5 - Keeping fork updated
@@ -164,6 +183,8 @@ Note: you can follow this steps below<br />
 To finish this step you can follow the tutorial below.
 
 [![][SyncForkThumb]][SyncFork]
+___
+
 ___
 
 ## Step 6 - GitHub Issues Tutorial
@@ -184,13 +205,25 @@ Make sure you have created at least one issue, resolved it, commented on an issu
 [![][GitHubIssuesThumb]][GitHubIssues]
 ___
 
+___
+
 ## Step 7 - Run another service on top of Docker
+
+As explained before at [Step 4](pages/internship.md#Step_4_-_System_tutorial_and_Docker) Docker is a service that you can install all necessary libraries and other stuff for your apps to run properly.
+
+In this step you will how to install an application to your Docker container. In summary, there is two methods to install an application to your container.
+
+One is, you can use command line and the other way is using docker-compose.
+
+In the video below, you will find hot to install MySQL with both ways.
 
 Note: This not required for a non-technical candidate.
 
 To finish this step you can follow the tutorial below.
 
 [![][MySQLDockerThumb]][MySQLDocker]
+___
+
 ___
 
 ## Step 8 - Create issues and pull request
@@ -215,6 +248,8 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 You must have made your pull requests and have them each approved by at least two other Kulkul.tech team members/interns in order for it to be merged to the upstream repository. Just as before, announce your Pull Request on the [Discord chat][Discord] so other members can review it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
 
 NOTE: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request and make a new branch for every new issue from the master branch.
+___
+
 ___
 
 ## Step 9 - Be part of the team
