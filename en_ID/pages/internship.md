@@ -73,6 +73,8 @@ ___
 ## Step 0 - Introductory steps
 
 Complete the [New Virtual Intern Application form][Apply]. If you have already done this after being invited to join the team then good job, you're all set!
+Note:
+- Sign in to a Google Account is required to fill the Application Form.
 
 Register and log into your GitHub account then **stars** the following repositories
 
@@ -274,8 +276,8 @@ Put any link below
 [Elm]: https://elm-lang.org/
 [FAQ]: faq.md
 [Discord]: https://discord.gg/AYvyGpb7aP
-[Telegram]: https://t.me/joinchat/Kk203VMsVapIi-U9-BQzkw
-[Apply]: https://kulkul.typeform.com/to/gqlnq2rt
+[Telegram]: https://t.me/kulkultech
+[Apply]: https://kul.to/vInternForm21
 [empeje]: https://github.com/empeje
 [yuliefas]: https://github.com/yuliefas
 [hudakurniawan]: https://github.com/hudakurniawan
