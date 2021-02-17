@@ -274,8 +274,8 @@ Put any link below
 [Elm]: https://elm-lang.org/
 [FAQ]: faq.md
 [Discord]: https://discord.gg/AYvyGpb7aP
-[Telegram]: https://t.me/joinchat/Kk203VMsVapIi-U9-BQzkw
-[Apply]: https://kulkul.typeform.com/to/gqlnq2rt
+[Telegram]: https://t.me/kulkultech
+[Apply]: https://kul.to/vInternForm21
 [empeje]: https://github.com/empeje
 [yuliefas]: https://github.com/yuliefas
 [hudakurniawan]: https://github.com/hudakurniawan
