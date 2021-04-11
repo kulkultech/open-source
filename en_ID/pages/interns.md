@@ -2,14 +2,16 @@
 
 ## Active Members
 
-|**Username**|**Join Date**|
+|*Username|Join Date*|
 |------------|-------------|
-|**➤ Interns**||
+|*➤ Interns*||
 |[![][kulkultech-img]][kulkultech-gh]&nbsp;[kulkultech](profiles/kulkultech.md)|2020-11-01|
 |[![][empeje-img]][empeje-gh]&nbsp;[empeje](profiles/empeje.md)|2020-11-01|
 |[![][galanggg-img]][galanggg-gh]&nbsp;[Galanggg](profiles/galanggg.md)|2020-11-16|
 |[![][volkansahn-img]][volkansahn-gh]&nbsp;[volkanshn](profiles/volkansahn.md)|2021-01-12|
+|[![][ojasthisside-img]][ojasthisside-gh]&nbsp;[Ojas](profiles/ojas.md)|2021-04-07|
 |[![][FatwaDwiHidayat-img]][FatwaDwiHidayat-gh]&nbsp;[FatwaDwiHidayat](profiles/FatwaDwiHidayat.md)|2021-04-09|
+
 
 <!---
 Put images link below
@@ -18,6 +20,7 @@ Put images link below
 [empeje-img]: https://github.com/empeje.png?size=25
 [galanggg-img]: https://github.com/galanggg.png?size=25
 [volkansahn-img]:https://github.com/volkansahn.png?size=25
+[ojasthisside-img]:https://github.com/ojasthisside.png?size=25
 [FatwaDwiHidayat-img]:https://github.com/FatwaDwiHidayat.png?size=25
 
 <!---
@@ -27,4 +30,5 @@ Put GitHub profiles link below
 [empeje-gh]: https://github.com/empeje
 [galanggg-gh]: https://github.com/galanggg
 [volkansahn-gh]: https://github.com/volkansahn
+[ojas-gh]: https://github.com/ojasthisside
 [FatwaDwiHidayat-gh]: https://github.com/FatwaDwiHidayat
