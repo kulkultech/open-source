@@ -20,7 +20,7 @@ Put images link below
 [galanggg-img]: https://github.com/galanggg.png?size=25
 [volkansahn-img]:https://github.com/volkansahn.png?size=25
 [ojasthisside-img]:https://github.com/ojasthisside.png?size=25
-[MuhammadAzka9-img]: https://github.com/MuhammadAzka9.png?size=25
+[MuhammadAzka9-img]:https://github.com/MuhammadAzka9.png?size=25
 
 <!---
 Put GitHub profiles link below
