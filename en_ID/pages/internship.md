@@ -183,7 +183,6 @@ Note: you can follow this steps below<br />
 **3**. Now, to keep `upstream` updated run this command `git fetch upstream`.
 
 To finish this step you can follow the tutorial below.
-[![Step 5 Keeping fork updated](http://img.youtube.com/vi/XsG3meuxbGc/0.jpg)](https://www.youtube.com/watch?v=XsG3meuxbGc")
 
 [![][SyncForkThumb]][SyncFork]
 ___
@@ -294,7 +293,7 @@ Put any link below
 [DockerTutorialThumb]: https://cdn.loom.com/sessions/thumbnails/df3b39ea5b2a47f09c158cd9c6301246-00001.gif
 [DockerTutorial]: https://www.loom.com/share/df3b39ea5b2a47f09c158cd9c6301246
 [SyncForkThumb]: https://cdn.loom.com/sessions/thumbnails/fd79261ac12f42979d311996b24b702d-00001.gif
-[SyncFork]: https://www.youtube.com/watch?v=XsG3meuxbGc/
+[SyncFork]: https://www.youtube.com/watch?v=XsG3meuxbGc
 [GitHubIssuesThumb]: https://cdn.loom.com/sessions/thumbnails/74cf3d969c0e43ed9a4e6e3d57f9bc07-00001.gif
 [GitHubIssues]: https://www.loom.com/share/74cf3d969c0e43ed9a4e6e3d57f9bc07
 [MySQLDockerThumb]: https://cdn.loom.com/sessions/thumbnails/5e1d6e098325493d94b876b5e395037b-00001.gif
