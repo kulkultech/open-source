@@ -71,6 +71,55 @@ git push origin [your branch dir/your branch name]
 
 <br />
 
+## References
+
+#### About Github
+* [What is Github ?](https://guides.github.com/activities/hello-world/#what)
+
+* [How to Use Github ?](https://guides.github.com/activities/hello-world/)
+
+    ___You can understand all about Github by read and following below :___
+
+
+* [What is Pull Request ?](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+
+    1). [How to Create Pull Request ? ](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+    
+    2). [Compare Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
+
+*  [What is Merge Pull Request ?](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request)
+    
+    1). [How to Merger Pull Request](https://guides.github.com/activities/hello-world/#merge)
+
+* [What is Issue ?](https://guides.github.com/features/issues/#:~:text=Issues%20are%20a%20great%20way,own%20section%20in%20every%20repository)
+
+    1). [How to Create an Issue ?](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue)
+
+* [What is Branches ?](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches)
+
+    1). [How to Create a Branch](https://guides.github.com/activities/hello-world/#branch)
+
+* [What is Commit and How to Make Commit ?](https://guides.github.com/activities/hello-world/#commit)
+
+    1). [How to Make Commit ?](https://guides.github.com/activities/hello-world/#commit)
+
+    1). [Committing changes to a pull request branch created from a fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/committing-changes-to-a-pull-request-branch-created-from-a-fork)
+
+* [What is Forks ?](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks)
+
+    1). [How to Fork a Repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+
+* [About Github File Attachments](https://docs.github.com/en/github/managing-your-work-on-github/file-attachments-on-issues-and-pull-requests)
+
+* **Explanations Video About Github**
+    
+    _If you still not completely understand about github and need more explanations, you can watch the video following video below :_
+    
+    1). [Github Explanation Video in English](https://www.youtube.com/watch?v=RGOj5yH7evk)
+    
+    2). [Github Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
+    
+
 ## Open-source Project
 
 The FAQ is not available yet.
