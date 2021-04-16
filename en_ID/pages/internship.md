@@ -295,7 +295,7 @@ Put any link below
 [SyncForkThumb]: https://cdn.loom.com/sessions/thumbnails/fd79261ac12f42979d311996b24b702d-00001.gif
 [SyncFork]: https://www.youtube.com/watch?v=XsG3meuxbGc
 [GitHubIssuesThumb]: https://cdn.loom.com/sessions/thumbnails/74cf3d969c0e43ed9a4e6e3d57f9bc07-00001.gif
-[GitHubIssues]: https://www.loom.com/share/74cf3d969c0e43ed9a4e6e3d57f9bc07
+[GitHubIssues]: https://www.youtube.com/watch?v=hPuMTRQ6cyw
 [MySQLDockerThumb]: https://cdn.loom.com/sessions/thumbnails/5e1d6e098325493d94b876b5e395037b-00001.gif
 [MySQLDocker]: https://www.loom.com/share/5e1d6e098325493d94b876b5e395037b
 [open-source]: https://github.com/kulkultech/open-source
