@@ -73,7 +73,7 @@ git push origin [your branch dir/your branch name]
 
 ## References
 
-#### About Github
+#### 1. About Github
 * [What is Github ?](https://guides.github.com/activities/hello-world/#what)
 
 * [How to Use Github ?](https://guides.github.com/activities/hello-world/)
@@ -103,7 +103,7 @@ git push origin [your branch dir/your branch name]
 
     1). [How to Make Commit ?](https://guides.github.com/activities/hello-world/#commit)
 
-    1). [Committing changes to a pull request branch created from a fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/committing-changes-to-a-pull-request-branch-created-from-a-fork)
+    2). [Committing changes to a pull request branch created from a fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/committing-changes-to-a-pull-request-branch-created-from-a-fork)
 
 * [What is Forks ?](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks)
 
@@ -119,6 +119,27 @@ git push origin [your branch dir/your branch name]
     
     2). [Github Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
     
+
+### 2. About Markdown
+* [What is Markdown and why use Markdown ?](https://www.markdownguide.org/getting-started/)
+
+* [How to Use Markdown ?](https://www.markdowntutorial.com/)
+
+* [The Different About Markdown VS HTML](https://www.thebrain.com/blog/markdown-vs-html)
+
+* [Markdown Live Preview ?](https://markdownlivepreview.com/)
+
+* [Markdown Basic Syntax You Must Know](https://www.markdownguide.org/basic-syntax/)
+
+* [Need Markdown Lesson or Tutorial ?](https://commonmark.org/help/tutorial/)
+
+* **Explanation Video About Markdown**
+    
+   _If you still not completely understand about markdown and need more explanations, you can watch the following video below :_  
+   
+    1). [Markdown Explanation Video in English]( https://www.youtube.com/watch?v=eJojC3lSkwg)
+    
+    2). [Markdown Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=5fgOUT4idvU)
 
 
 ## Open-source Project
