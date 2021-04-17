@@ -72,6 +72,7 @@ git push origin [your branch dir/your branch name]
 <br />
 
 ## References
+<br>
 
 #### 1. About Github
 * [What is Github ?](https://guides.github.com/activities/hello-world/#what)
@@ -120,7 +121,7 @@ git push origin [your branch dir/your branch name]
     2). [Github Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
     
 
-### 2. About Markdown
+#### 2. About Markdown
 * [What is Markdown and why use Markdown ?](https://www.markdownguide.org/getting-started/)
 
 * [How to Use Markdown ?](https://www.markdowntutorial.com/)
