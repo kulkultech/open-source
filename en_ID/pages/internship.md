@@ -297,7 +297,7 @@ Put any link below
 [GitHubIssuesThumb]: https://cdn.loom.com/sessions/thumbnails/74cf3d969c0e43ed9a4e6e3d57f9bc07-00001.gif
 [GitHubIssues]: https://www.youtube.com/watch?v=hPuMTRQ6cyw
 [MySQLDockerThumb]: https://cdn.loom.com/sessions/thumbnails/5e1d6e098325493d94b876b5e395037b-00001.gif
-[MySQLDocker]: https://www.loom.com/share/5e1d6e098325493d94b876b5e395037b
+[MySQLDocker]: https://www.youtube.com/watch?v=5Ms-GHowuzY
 [open-source]: https://github.com/kulkultech/open-source
 [docker-windows]: https://docs.docker.com/docker-for-windows/install/
 [docker-linux]: https://docs.docker.com/engine/install/#server
