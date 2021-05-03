@@ -1,6 +1,6 @@
 # Progress Tracker
 
-NOTE: progress tracker helps you in monitoring how much PR you send in [this](https://github.com/kulkultech/open-source) repo
+**NOTE: Progress tracker helps you in monitoring how much PR you send in [this](https://github.com/kulkultech/open-source) repo**
 
 
 <div class="main-form"><input id="input-username" type="text" placeholder="input github username" name="reg">
