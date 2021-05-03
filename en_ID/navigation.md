@@ -41,6 +41,8 @@
 [About](https://kulkul.tech/about/)
 [Chat](https://discord.gg/AYvyGpb7aP)
 
+[gimmick:ForkMeOnGitHub (position: 'right', color: 'darkblue') ](https://github.com/kulkultech/open-source)
+
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
