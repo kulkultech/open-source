@@ -228,12 +228,12 @@ ___
 
 ## Step 8 - Create issues and pull request
 
-Note: At the end of this step, you will have the following finished.
+**Attention: At the end of this step, you will have the following finished.**
 ‎
 - **5 merged pull requests** (one at step 3, one at step 6 and three at step 8)
 - **4 comments made** on issues you didn't create (one at step 6 and three at step 8)
 - **4 issues created** (one at step 6 and three at step 8)
-It should be made in [kulkultech/open-source][open-source] repository.
+**It should be made in [kulkultech/open-source][open-source] repository.**
 
 
 In this step, we will adopt the motto of "Practice makes Perfect". You will follow the same steps as in Step 6, continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
