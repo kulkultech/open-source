@@ -218,22 +218,31 @@ To configure your GitHub account to use your new (or existing) SSH key, you'll a
 
 1. Open Terminal.
 2. Paste the text below, substituting in your GitHub email address.
+
 ```
 $ ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
+
 **Note: If you are using a legacy system that doesn't support the Ed25519 algorithm, use:**
+
 ```
 $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
+
 This creates a new ssh key, using the provided email as a label.
+
 ```
 > Generating public/private ed25519 key pair.
 ```
+
 3. When you're prompted to "Enter a file in which to save the key," press Enter. This accepts the default file location.
+
 ```
 > Enter a file in which to save the key (/home/you/.ssh/id_ed25519): [Press enter]
 ```
+
 4. At the prompt, type a secure passphrase.
+
 ```
 > Enter passphrase (empty for no passphrase): [Type a passphrase]
 > Enter same passphrase again: [Type passphrase again]
