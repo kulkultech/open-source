@@ -222,7 +222,7 @@ To configure your GitHub account to use your new (or existing) SSH key, you'll a
 ```
 $ ssh-keygen -t ed25519 -C "your_email@example.com"
 
-Note: If you are using a legacy system that doesn't support the Ed25519 algorithm, use:
+**Note: If you are using a legacy system that doesn't support the Ed25519 algorithm, use:**
 
 $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
@@ -259,10 +259,14 @@ $ ssh-add ~/.ssh/id_ed25519
 
 ### Add the SSH key to your GitHub account.
 1. Copy the SSH public key to your clipboard. If your SSH public key file has a different name than the example code, modify the filename to match your current setup. When copying your key, don't add any newlines or whitespace.
+
 ```
 $ sudo apt-get update
 $ sudo apt-get install xclip
 # Downloads and installs xclip. If you don't have `apt-get`, you might need to use another installer (like `yum`)
+```
+
+```
 $ xclip -selection clipboard < ~/.ssh/id_ed25519.pub
 #Copies the contents of the id_ed25519.pub file to your clipboard
 ```
