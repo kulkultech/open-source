@@ -216,8 +216,8 @@ To configure your GitHub account to use your new (or existing) SSH key, you'll a
 
 ### Generating a new SSH key
 
-1. Open Terminal.
-2. Paste the text below, substituting in your GitHub email address.
+* Open Terminal.
+* Paste the text below, substituting in your GitHub email address.
 
 ```
 $ ssh-keygen -t ed25519 -C "your_email@example.com"
@@ -233,13 +233,13 @@ This creates a new ssh key, using the provided email as a label.
 > Generating public/private ed25519 key pair.
 ```
 
-3. When you're prompted to "Enter a file in which to save the key," press Enter. This accepts the default file location.
+* When you're prompted to "Enter a file in which to save the key," press Enter. This accepts the default file location.
 
 ```
 > Enter a file in which to save the key (/home/you/.ssh/id_ed25519): [Press enter]
 ```
 
-4. At the prompt, type a secure passphrase.
+* At the prompt, type a secure passphrase.
 
 ```
 > Enter passphrase (empty for no passphrase): [Type a passphrase]
@@ -264,12 +264,12 @@ $ ssh-add ~/.ssh/id_ed25519
 $ sudo apt-get update
 $ sudo apt-get install xclip
 # Downloads and installs xclip. If you don't have `apt-get`, you might need to use another installer (like `yum`)
-```
 
-```
+
 $ xclip -selection clipboard < ~/.ssh/id_ed25519.pub
 #Copies the contents of the id_ed25519.pub file to your clipboard
 ```
+
 **Note: If xclip isn't working, you can locate the hidden .ssh folder, open the file in your favorite text editor, and copy it to your clipboard.**
 
 2. In the upper-right corner of any page, click your profile photo, then click **Settings**.
