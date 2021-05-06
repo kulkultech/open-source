@@ -70,7 +70,7 @@ ___
 
 ## Step 0 - Introductory steps
 
-Complete the [New Virtual Intern Application form][Apply]. If you have already done this after being invited to join the team then good job, you're all set!
+Complete the [New Virtual Intern Application form][Apply]{:target="_blank"}. If you have already done this after being invited to join the team then good job, you're all set!
 Note:
 - Sign in to a Google Account is required to fill the Application Form.
 
