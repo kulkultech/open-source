@@ -70,7 +70,7 @@ ___
 
 ## Step 0 - Introductory steps
 
-Complete the [New Virtual Intern Application form][Apply]. If you have already done this after being invited to join the team then good job, you're all set!
+Complete the [New Virtual Intern Application form][Apply]{:target="_blank"}. If you have already done this after being invited to join the team then good job, you're all set!
 Note:
 - Sign in to a Google Account is required to fill the Application Form.
 
@@ -275,7 +275,7 @@ Put any link below
 [FAQ]: faq.md
 [Discord]: https://discord.gg/AYvyGpb7aP
 [Telegram]: https://t.me/kulkultech
-[Apply]: https://kul.to/vInternForm21/?target=_blank
+[Apply]: https://kul.to/vInternForm21
 [empeje]: https://github.com/empeje
 [yuliefas]: https://github.com/yuliefas
 [hudakurniawan]: https://github.com/hudakurniawan
