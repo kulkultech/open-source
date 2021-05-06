@@ -275,7 +275,7 @@ Put any link below
 [FAQ]: faq.md
 [Discord]: https://discord.gg/AYvyGpb7aP
 [Telegram]: https://t.me/kulkultech
-[Apply]: https://kul.to/vInternForm21
+[Apply]: https://kul.to/vInternForm21/?target=_blank
 [empeje]: https://github.com/empeje
 [yuliefas]: https://github.com/yuliefas
 [hudakurniawan]: https://github.com/hudakurniawan
