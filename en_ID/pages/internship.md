@@ -4,26 +4,24 @@
 
 Kulkul.tech internship program where you'll learn how modern software development works. This is an unpaid program, but allowance will be granted on a merit-basis. We have an opening for multiple intern positions.
 
-Below are positions that we're looking for
+**Below are positions that we're looking for**
 
-### Technical Internship
-* Software Engineering Intern (Android, Flutter)
-* Software Engineering Intern (iOS, Flutter)
-* Software Engineering Intern (Frontend, JavaScript)
-* Software Engineering Intern (Frontend, Elm)
-* Software Engineering Intern (Frontend, WordPress)
-* Technical Writing Intern
-
-### Non-technical Internship
-* Digital Marketing Intern
-* Product Design Intern
-* Sales Development Representative Intern
+ Technical Internship | Non-technical Internship
+--------------------  | -----------------------
+Software Engineering Intern (Android, Flutter)      | Digital Marketing Intern
+Software Engineering Intern (iOS, Flutter)          | Product Design Intern
+Software Engineering Intern (Frontend, JavaScript)  | Sales Development Representative Intern
+Software Engineering Intern (Frontend, Elm)         |
+Software Engineering Intern (Frontend, WordPress)   |
+Technical Writing Intern                            |
 
 We are a tech-based company and software engineering is at the heart of our company. So although some positions are less technical, we expect all aspiring interns to go through the same First Step Process. In the following section, you'll learn how to finish the first step. However, the completion of the first step is not a guarantee to get the positions. As each intern will be exclusively **mentored** by our team **(a mentorship that worth more than $6k)**, only selected aspiring interns will be selected as our intern.
 
 ## Duration and time commitment
 
-NOTE: This is an intensive internship, a dedicated amount of effort, and time are required.
+Attention: 
+This is an intensive internship, a dedicated amount of effort, and time are required.
+
 
 Since mentoring the next generation would take time, we expect our intern to dedicate significant time and effort to the program. The aspiring interns can be accepted to the program if they can work with us for at least 3 months with at least 20 hours per week commitment. This way we hope we can do the best for the interns and interns can have enough time to learn.
 
@@ -230,12 +228,12 @@ ___
 
 ## Step 8 - Create issues and pull request
 
-Note: At the end of this step, you will have the following finished.
+**Attention: At the end of this step, you will have the following finished.**
 ‎
 - **5 merged pull requests** (one at step 3, one at step 6 and three at step 8)
 - **4 comments made** on issues you didn't create (one at step 6 and three at step 8)
 - **4 issues created** (one at step 6 and three at step 8)
-It should be made in [kulkultech/open-source][open-source] repository.
+**It should be made in [kulkultech/open-source][open-source] repository.**
 
 
 In this step, we will adopt the motto of "Practice makes Perfect". You will follow the same steps as in Step 6, continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
@@ -293,11 +291,11 @@ Put any link below
 [DockerTutorialThumb]: https://cdn.loom.com/sessions/thumbnails/df3b39ea5b2a47f09c158cd9c6301246-00001.gif
 [DockerTutorial]: https://www.loom.com/share/df3b39ea5b2a47f09c158cd9c6301246
 [SyncForkThumb]: https://cdn.loom.com/sessions/thumbnails/fd79261ac12f42979d311996b24b702d-00001.gif
-[SyncFork]: https://www.loom.com/share/fd79261ac12f42979d311996b24b702d
+[SyncFork]: https://www.youtube.com/watch?v=XsG3meuxbGc
 [GitHubIssuesThumb]: https://cdn.loom.com/sessions/thumbnails/74cf3d969c0e43ed9a4e6e3d57f9bc07-00001.gif
-[GitHubIssues]: https://www.loom.com/share/74cf3d969c0e43ed9a4e6e3d57f9bc07
+[GitHubIssues]: https://www.youtube.com/watch?v=hPuMTRQ6cyw
 [MySQLDockerThumb]: https://cdn.loom.com/sessions/thumbnails/5e1d6e098325493d94b876b5e395037b-00001.gif
-[MySQLDocker]: https://www.loom.com/share/5e1d6e098325493d94b876b5e395037b
+[MySQLDocker]: https://www.youtube.com/watch?v=5Ms-GHowuzY
 [open-source]: https://github.com/kulkultech/open-source
 [docker-windows]: https://docs.docker.com/docker-for-windows/install/
 [docker-linux]: https://docs.docker.com/engine/install/#server
