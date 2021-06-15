@@ -39,7 +39,16 @@
   * [**Members**](pages/interns.md)
 
 [About](https://kulkul.tech/about/)
-[Chat](https://discord.gg/AYvyGpb7aP)
+
+[Social]()
+
+  * [Discord](https://discord.com/invite/AYvyGpb7aP)
+  * [GitHub](https://github.com/kulkultech)
+  * [Instagram](https://www.instagram.com/kulkul.tech)
+  * [LinkedIn](https://linkedin.com/company/kulkul-technology)
+  * [Telegram](https://t.me/kulkultech)
+  * [Twitter](https://twitter.com/kulkultech)
+  * [YouTube](https://www.youtube.com/channel/UCkafa38JOKqTfZmBaMYoywQ)
 
 [gimmick:ForkMeOnGitHub (position: 'right', color: 'darkblue') ](https://github.com/kulkultech/open-source)
 
