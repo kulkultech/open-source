@@ -42,6 +42,7 @@
 
 [Social]()
 
+<<<<<<< HEAD
   * [<img src="pages/images/discord.png" alt="alt text" width="20px"/> Discord](https://discord.com/invite/AYvyGpb7aP)
   * [<img src="pages/images/github.png" alt="alt text" width="20px"/> GitHub](https://github.com/kulkultech)
   * [<img src="pages/images/instagram.png" alt="alt text" width="20px"/> Instagram](https://www.instagram.com/kulkul.tech)
@@ -49,6 +50,15 @@
   * [<img src="pages/images/telegram.png" alt="alt text" width="20px"/> Telegram](https://t.me/kulkultech)
   * [<img src="pages/images/twitter.png" alt="alt text" width="20px"/> Twitter](https://twitter.com/kulkultech)
   * [<img src="pages/images/youtube.png" alt="alt text" width="20px"/> Youtube](https://www.youtube.com/channel/UCkafa38JOKqTfZmBaMYoywQ)
+=======
+  * [Discord](https://discord.com/invite/AYvyGpb7aP)
+  * [GitHub](https://github.com/kulkultech)
+  * [Instagram](https://www.instagram.com/kulkul.tech)
+  * [LinkedIn](https://linkedin.com/company/kulkul-technology)
+  * [Telegram](https://t.me/kulkultech)
+  * [Twitter](https://twitter.com/kulkultech)
+  * [YouTube](https://www.youtube.com/channel/UCkafa38JOKqTfZmBaMYoywQ)
+>>>>>>> c779bc33f66ce1a0300cbae10618e4a016c2e7ba
 
 [gimmick:ForkMeOnGitHub (position: 'right', color: 'darkblue') ](https://github.com/kulkultech/open-source)
 
