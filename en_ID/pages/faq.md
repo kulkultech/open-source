@@ -144,9 +144,9 @@ git push origin [your branch dir/your branch name]
 
 #### 3. About Internship
 
-* Do need a letter of submission from the campus to join this internship?
+* __Do need a letter of submission from the campus to join this internship?__
 
-    ____
+    No need. Follow the first steps, and we'll process your internship application.
 
 ## Add SSH for windows
 
