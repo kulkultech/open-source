@@ -142,6 +142,12 @@ git push origin [your branch dir/your branch name]
     
     2). [Markdown Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=5fgOUT4idvU)
 
+#### 3. About Internship
+
+* __Do need a letter of submission from the campus to join this internship?__
+
+    No need. Follow the first steps, and we'll process your internship application.
+
 ## Add SSH for windows
 
 To configure your GitHub account to use your new (or existing) SSH key, you'll also need to add it to your GitHub account.
