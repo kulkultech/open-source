@@ -148,6 +148,10 @@ git push origin [your branch dir/your branch name]
 
     No need. Follow the first steps, and we'll process your internship application.
 
+* __Which college student from major can join this internship?__
+
+    Generally, no requirement, anyone in the world who just started their software engineering career can join. We have interns ranging from college student to career switcher (have years of experience but move to software engineering).
+
 ## Add SSH for windows
 
 To configure your GitHub account to use your new (or existing) SSH key, you'll also need to add it to your GitHub account.
