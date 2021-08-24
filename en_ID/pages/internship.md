@@ -215,7 +215,7 @@ In this step you will how to install an application to your Docker container. In
 
 One is, you can use command line and the other way is using docker-compose.
 
-In the video below, you will find hot to install MySQL with both ways.
+In the video below, you will find how to install MySQL with both ways.
 
 Note: This not required for a non-technical candidate.
 
