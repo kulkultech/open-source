@@ -219,7 +219,7 @@ ___
 
 As explained before at [Step 4](pages/internship.md#Step_4_-_System_tutorial_and_Docker) Docker is a service that you can install all necessary libraries and other stuff for your apps to run properly.
 
-In this step you will how to install an application to your Docker container. In summary, there is two methods to install an application to your container.
+In this step you will apprehend how to install an application to your Docker container. In summary, there is two methods to install an application to your container.
 
 One is, you can use command line and the other way is using docker-compose.
 
