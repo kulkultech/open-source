@@ -176,9 +176,17 @@ Note: This not required for a non-technical candidate. A non-technical candidate
 At this fifth stage, we will discuss a little how-to to keeping fork updated. So the goal is how we can get the latest version from the upstream repository and then merge the new changes into your fork.
 
 Note: you can follow this steps below<br />
-**1**. Add the original remote URL repository with this command `git remote add upstream <REPO_URL>` ,the original repository is mostly called `upstream`.
+**1**. Add the original remote URL repository with this command `git remote add upstream <REPO_URL>`, the original repository is mostly called `upstream`.
 **2**. To make sure remote is added, you can check with this command `git remote -v`.
 **3**. Now, to keep `upstream` updated run this command `git fetch upstream`.
+
+This is an example for the code
+
+Note: The upstream is kulkul<br />
+**1**. Add the original remote Kulkul's URL repository with this command `> git remote add kulkul git@github.com:kulkultech/open-source.git` ,the Kulkul's original repository which is mostly called `upstream`.
+**2**. To ensure the status, you can check with this command `git remote -v`.
+**3**. Now, to keep `upstream` updated, you can run this command `git fetch kulkul`.
+
 
 To finish this step you can follow the tutorial below.
 
