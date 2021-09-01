@@ -22,8 +22,8 @@
 [Virtual Interns]()
 
   * [**Introduction / First Steps**](pages/internship.md#First_Step)
-  * ![This is a alt text.](https://img.icons8.com/ios-filled/20/000000/faq.png "FAQ") [ FAQ](pages/faq.md)
-  * ![This is a alt text.](https://img.icons8.com/ios-filled/20/000000/in-progress.png "Progress") [ Progress Tracker](pages/progress.md)
+  * ![This is a alt text.](https://img.icons8.com/ios-filled/15/000000/faq.png "FAQ") [ FAQ](pages/faq.md)
+  * ![This is a alt text.](https://img.icons8.com/ios-filled/15/000000/in-progress.png "Progress") [ Progress Tracker](pages/progress.md)
   - - - -
   * [Step 0 - Introductory Steps](pages/internship.md#Step_0_-_Introductory_steps)
   * [Step 1 - Installing Ngecilin in your computer](pages/internship.md#Step_0_-_Introductory_steps)
@@ -36,7 +36,7 @@
   * [Step 8 - Create issues and pull request](pages/internship.md#Step_8_-_Create_issues_and_pull_request)
   * [Step 9 - Be part of the team](pages/internship.md#Step_9_-_Be_part_of_the_team)
   - - - -
-  * ![This is a alt text.](https://img.icons8.com/ios-glyphs/20/000000/conference--v3.png "Members") [**Members**](pages/interns.md)
+  * ![This is a alt text.](https://img.icons8.com/ios-glyphs/15/000000/conference--v3.png "Members") [**Members**](pages/interns.md)
 
 [About](https://kulkul.tech/about/)
 
