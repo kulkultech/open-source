@@ -14,12 +14,6 @@ Software Engineering Intern (Frontend, JavaScript)  | Sales Development Represen
 Software Engineering Intern (Frontend, Elm)         |
 Software Engineering Intern (Frontend, WordPress)   |
 Technical Writing Intern                            |
-Artificial Intelligence              |
-Machine Learning  |                
-Blockchain           |
-Quantum Computing    |
-System Engineering     |
-  
 
 We are a tech-based company and software engineering is at the heart of our company. So although some positions are less technical, we expect all aspiring interns to go through the same First Step Process. In the following section, you'll learn how to finish the first step. However, the completion of the first step is not a guarantee to get the positions. As each intern will be exclusively **mentored** by our team **(a mentorship that worth more than $6k)**, only selected aspiring interns will be selected as our intern.
 
