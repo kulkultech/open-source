@@ -190,17 +190,11 @@ This is an example for the code
 
 Note: The upstream is kulkul<br />
 **1**. Add the original remote Kulkul's URL repository with this command:
-
 ```git remote add kulkul git@github.com:kulkultech/open-source.git```
-
 the Kulkul's original repository which is mostly called `upstream`.
-
 **2**. To ensure the status, you can check with this command: 
-
 ```git remote -v```
-
 **3**. Now, to keep `upstream` updated, you can run this command: 
-
 ```git fetch kulkul```
 
 To finish this step you can follow the tutorial below.
