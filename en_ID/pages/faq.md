@@ -2,14 +2,22 @@
 
 ## Virtual Internship
 
-### Do Pull requests need to be merged first to be counted valid?
-* Pull requests need to be merge except one in the Step 3.
+### Do I need a letter of submission from the campus to join this internship?
+* No need. Follow the first steps, and we'll process your internship application.
+
+### Which college student from major can join this internship?
+* Generally, no requirement, anyone in the world who just started their software engineering career can join. We have interns ranging from college student to career switcher (have years of experience but move to software engineering).
+
+
 
 ### How many numbers interns will be received each season?
 * We have no strict limit on the number of interns we hire every year as our business is also growing. Everyone can prove they capable to join our internship if he proves able to finish the first steps and pass our interview.
 
 ### What are the eligibility requirements for participation?
 * Generally, there are no strict requirements. Anyone who early in their software engineering career can join this program as long as can commit a significant amount of time to this internship as we mention in the [Duration and time commitment](internship.md#Duration_and_time_commitment). This internship program is intensive, so a time commitment is very important as this program is running virtually.
+
+### Do my PR (Pull Requests) need to be merged first to be counted valid?
+* Pull requests need to be merge except one in the Step 3.
 
 ### How to Make a PR (Pull Request) ?
 
@@ -142,15 +150,6 @@ git push origin [your branch dir/your branch name]
     
     2). [Markdown Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=5fgOUT4idvU)
 
-#### 3. About Internship
-
-* __Do need a letter of submission from the campus to join this internship?__
-
-    No need. Follow the first steps, and we'll process your internship application.
-
-* __Which college student from major can join this internship?__
-
-    Generally, no requirement, anyone in the world who just started their software engineering career can join. We have interns ranging from college student to career switcher (have years of experience but move to software engineering).
 
 ## Add SSH for windows
 
