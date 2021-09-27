@@ -83,7 +83,7 @@ git push origin [your branch dir/your branch name]
 
 ## **Github**
 ---
-___You can understand all about Github by read and following below :___
+You can understand all about Github by read and following below :
 
 **Q: What is Github ?**  
 A: [Hello World - Github Guides](https://guides.github.com/activities/hello-world/#what)
@@ -121,7 +121,6 @@ A: [How to Create a Branch](https://guides.github.com/activities/hello-world/#br
 **Q: What is commit and how to make commit?**  
 A: [Make and commit changes](https://guides.github.com/activities/hello-world/#commit)
 
-
 **Q: How to commit changes to a PR branch created from a fork?**  
 A: [See here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/committing-changes-to-a-pull-request-branch-created-from-a-fork)
 
@@ -136,7 +135,7 @@ A: [About Github File Attachments](https://docs.github.com/en/github/managing-yo
 
 ### **Explanations Video About Github**
     
-_If you still not completely understand about github and need more explanations, you can watch the video following video below :_
+If you still not completely understand about github and need more explanations, you can watch the video following video below :
     
 - [Github Explanation Video in English](https://www.youtube.com/watch?v=RGOj5yH7evk)
     
