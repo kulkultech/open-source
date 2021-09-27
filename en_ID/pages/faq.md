@@ -2,8 +2,6 @@
 
 ## Virtual Internship
 
-dasdasdasd
-
 1. Do I need a letter of submission from the campus to join this internship?  
 No need. Follow the first steps, and we'll process your internship application.
 
@@ -81,7 +79,7 @@ git push origin [your branch dir/your branch name]
 <br/>
 <br>
 
-## **Github**
+## Github
 ---
 You can understand all about Github by read and following below :
 
@@ -142,7 +140,7 @@ If you still not completely understand about github and need more explanations, 
 - [Github Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
     
 
-## **Markdown**
+## Markdown
 ---
 **Q: What is Markdown and why use Markdown ?**  
 A: [Click here](https://www.markdownguide.org/getting-started/)
