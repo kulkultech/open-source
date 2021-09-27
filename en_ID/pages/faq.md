@@ -2,8 +2,8 @@
 
 ## Virtual Internship
 
-### 1. Do I need a letter of submission from the campus to join this internship?
-    No need. Follow the first steps, and we'll process your internship application.
+##### 1. Do I need a letter of submission from the campus to join this internship?
+No need. Follow the first steps, and we'll process your internship application.
 
 ### 2. Which college student from major can join this internship?
     Generally, no requirement, anyone in the world who just started their software engineering career can join. We have interns ranging from college student to career switcher (have years of experience but move to software engineering).
