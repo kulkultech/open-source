@@ -133,23 +133,24 @@ git push origin [your branch dir/your branch name]
     
 
 ## Markdown
-### 1. What is Markdown and why use Markdown ?
-[Click here](https://www.markdownguide.org/getting-started/)
+---
+**Q: What is Markdown and why use Markdown ?**  
+A: [Click here](https://www.markdownguide.org/getting-started/)
 
-### 2. How to use Markdown ?
-[Click here](https://www.markdowntutorial.com/)
+**Q: How to use Markdown ?**  
+A: [Click here](https://www.markdowntutorial.com/)
 
-### 3. The difference about Markdown vs HTML ?
-[Markdown vs HTML](https://www.thebrain.com/blog/markdown-vs-html)
+**Q: The difference about Markdown vs HTML ?**  
+A: [Markdown vs HTML](https://www.thebrain.com/blog/markdown-vs-html)
 
-### 4. Markdown live preview ?
-[markdownlivepreview](https://markdownlivepreview.com/)
+**Q: Markdown live preview ?**  
+A: [markdownlivepreview](https://markdownlivepreview.com/)
 
-### 5. Markdown basic syntax you must know 
-[basic syntax](https://www.markdownguide.org/basic-syntax/)
+**Q: Markdown basic syntax you must know**  
+A: [basic syntax](https://www.markdownguide.org/basic-syntax/)
 
-### 6. Need markdown lesson or tutorial ?
-[markdown tutorial](https://commonmark.org/help/tutorial/)
+**Q:Need markdown lesson or tutorial ?**  
+A: [markdown tutorial](https://commonmark.org/help/tutorial/)
 
 
 ### **Explanation Video About Markdown**
