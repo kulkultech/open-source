@@ -2,22 +2,21 @@
 
 ## Virtual Internship
 
-### Do I need a letter of submission from the campus to join this internship?
-* No need. Follow the first steps, and we'll process your internship application.
+### 1. Do I need a letter of submission from the campus to join this internship?
+    No need. Follow the first steps, and we'll process your internship application.
 
-### Which college student from major can join this internship?
-* Generally, no requirement, anyone in the world who just started their software engineering career can join. We have interns ranging from college student to career switcher (have years of experience but move to software engineering).
+### 2. Which college student from major can join this internship?
+    Generally, no requirement, anyone in the world who just started their software engineering career can join. We have interns ranging from college student to career switcher (have years of experience but move to software engineering).
 
 
+### 3. How many numbers interns will be received each season?
+    We have no strict limit on the number of interns we hire every year as our business is also growing. Everyone can prove they capable to join our internship if he proves able to finish the first steps and pass our interview.
 
-### How many numbers interns will be received each season?
-* We have no strict limit on the number of interns we hire every year as our business is also growing. Everyone can prove they capable to join our internship if he proves able to finish the first steps and pass our interview.
+### 4. What are the eligibility requirements for participation?
+    Generally, there are no strict requirements. Anyone who early in their software engineering career can join this program as long as can commit a significant amount of time to this internship as we mention in the [Duration and time commitment](internship.md#Duration_and_time_commitment). This internship program is intensive, so a time commitment is very important as this program is running virtually.
 
-### What are the eligibility requirements for participation?
-* Generally, there are no strict requirements. Anyone who early in their software engineering career can join this program as long as can commit a significant amount of time to this internship as we mention in the [Duration and time commitment](internship.md#Duration_and_time_commitment). This internship program is intensive, so a time commitment is very important as this program is running virtually.
-
-### Do my PR (Pull Requests) need to be merged first to be counted valid?
-* Pull requests need to be merge except one in the Step 3.
+### 5. Do my PR (Pull Requests) need to be merged first to be counted valid?
+    Pull requests need to be merge except one in the Step 3.
 
 ### How to Make a PR (Pull Request) ?
 
@@ -82,7 +81,9 @@ git push origin [your branch dir/your branch name]
 ## References
 <br>
 
-#### 1. About Github
+## Github
+
+### 1. What is Github ?
 * [What is Github ?](https://guides.github.com/activities/hello-world/#what)
 
 * [How to Use Github ?](https://guides.github.com/activities/hello-world/)
@@ -129,26 +130,33 @@ git push origin [your branch dir/your branch name]
     2). [Github Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
     
 
-#### 2. About Markdown
-* [What is Markdown and why use Markdown ?](https://www.markdownguide.org/getting-started/)
+## Markdown
+### 1. What is Markdown and why use Markdown ?
+[Click here](https://www.markdownguide.org/getting-started/)
 
-* [How to Use Markdown ?](https://www.markdowntutorial.com/)
+### 2. How to use Markdown ?
+[Click here](https://www.markdowntutorial.com/)
 
-* [The Different About Markdown VS HTML](https://www.thebrain.com/blog/markdown-vs-html)
+### 3. The difference about Markdown vs HTML ?
+[Markdown vs HTML](https://www.thebrain.com/blog/markdown-vs-html)
 
-* [Markdown Live Preview ?](https://markdownlivepreview.com/)
+### 4. Markdown live preview ?
+[markdownlivepreview](https://markdownlivepreview.com/)
 
-* [Markdown Basic Syntax You Must Know](https://www.markdownguide.org/basic-syntax/)
+### 5. Markdown basic syntax you must know 
+[basic syntax](https://www.markdownguide.org/basic-syntax/)
 
-* [Need Markdown Lesson or Tutorial ?](https://commonmark.org/help/tutorial/)
+### 6. Need markdown lesson or tutorial ?
+[markdown tutorial](https://commonmark.org/help/tutorial/)
 
-* **Explanation Video About Markdown**
+
+### **Explanation Video About Markdown**
     
-   _If you still not completely understand about markdown and need more explanations, you can watch the following video below :_  
+   If you still not completely understand about markdown and need more explanations, you can watch the following video below :
    
-    1). [Markdown Explanation Video in English]( https://www.youtube.com/watch?v=eJojC3lSkwg)
+    1. [Markdown Explanation Video in English]( https://www.youtube.com/watch?v=eJojC3lSkwg)
     
-    2). [Markdown Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=5fgOUT4idvU)
+    2. [Markdown Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=5fgOUT4idvU)
 
 
 ## Add SSH for windows
