@@ -78,58 +78,69 @@ git push origin [your branch dir/your branch name]
 
 <img src=images/Branch-pr.png alt class="img-responsive img-thumbnail"/>
 
-<br />
-
-## References
+<br/>
 <br>
 
-## Github
+## **Github**
+---
+___You can understand all about Github by read and following below :___
 
-### 1. What is Github ?
-* [What is Github ?](https://guides.github.com/activities/hello-world/#what)
+**Q: What is Github ?**  
+A: [Hello World - Github Guides](https://guides.github.com/activities/hello-world/#what)
 
-* [How to Use Github ?](https://guides.github.com/activities/hello-world/)
+**Q: How to use Github?**  
+A: [source 1](https://guides.github.com/activities/hello-world/)
 
-    ___You can understand all about Github by read and following below :___
+**Q: What is PR (Pull Request)?**  
+A: [About pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+
+**Q: How to create pull requests?**  
+A: see this articles below:
+- [Creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request), 
+- [How to create a pull request](https://opensource.com/article/19/7/create-pull-request-github)
 
 
-* [What is Pull Request ?](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+**Q: What is merge pull request?**  
+A: see this articles below:
+- [Merging a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request)
+- [Merge your pull request](https://guides.github.com/activities/hello-world/#merge)
 
-    1). [How to Create Pull Request ? ](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+**Q: What is issue?**  
+A: [Mastering issue](https://guides.github.com/features/issues/#:~:text=Issues%20are%20a%20great%20way,own%20section%20in%20every%20repository)
+
+**Q: How to create an issue?**  
+A: [Creating an issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue)
+
+
+**Q: What is branches?**  
+A: [About branches](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches)
+
+**Q: How to create a branch?**  
+A: [How to Create a Branch](https://guides.github.com/activities/hello-world/#branch)
+
+**Q: What is commit and how to make commit?**  
+A: [Make and commit changes](https://guides.github.com/activities/hello-world/#commit)
+
+
+**Q: How to commit changes to a PR branch created from a fork?**  
+A: [See here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/committing-changes-to-a-pull-request-branch-created-from-a-fork)
+
+**Q: What is fork?**  
+A: [About forks](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/about-forks)
+
+**Q: How to fork a repository?**  
+A: [Fork a repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+
+**Q: How to attach file in github?**  
+A: [About Github File Attachments](https://docs.github.com/en/github/managing-your-work-on-github/file-attachments-on-issues-and-pull-requests)
+
+### **Explanations Video About Github**
     
-    2). [Compare Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
-
-*  [What is Merge Pull Request ?](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request)
+_If you still not completely understand about github and need more explanations, you can watch the video following video below :_
     
-    1). [How to Merger Pull Request](https://guides.github.com/activities/hello-world/#merge)
-
-* [What is Issue ?](https://guides.github.com/features/issues/#:~:text=Issues%20are%20a%20great%20way,own%20section%20in%20every%20repository)
-
-    1). [How to Create an Issue ?](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue)
-
-* [What is Branches ?](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches)
-
-    1). [How to Create a Branch](https://guides.github.com/activities/hello-world/#branch)
-
-* [What is Commit and How to Make Commit ?](https://guides.github.com/activities/hello-world/#commit)
-
-    1). [How to Make Commit ?](https://guides.github.com/activities/hello-world/#commit)
-
-    2). [Committing changes to a pull request branch created from a fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/committing-changes-to-a-pull-request-branch-created-from-a-fork)
-
-* [What is Forks ?](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks)
-
-    1). [How to Fork a Repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
-
-* [About Github File Attachments](https://docs.github.com/en/github/managing-your-work-on-github/file-attachments-on-issues-and-pull-requests)
-
-* **Explanations Video About Github**
+- [Github Explanation Video in English](https://www.youtube.com/watch?v=RGOj5yH7evk)
     
-    _If you still not completely understand about github and need more explanations, you can watch the video following video below :_
-    
-    1). [Github Explanation Video in English](https://www.youtube.com/watch?v=RGOj5yH7evk)
-    
-    2). [Github Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
+- [Github Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
     
 
 ## **Markdown**
@@ -157,9 +168,9 @@ A: [markdown tutorial](https://commonmark.org/help/tutorial/)
     
    If you still not completely understand about markdown and need more explanations, you can watch the following video below :
    
-    1. [Markdown Explanation Video in English]( https://www.youtube.com/watch?v=eJojC3lSkwg)
+- [Markdown Explanation Video in English](https://www.youtube.com/watch?v=eJojC3lSkwg)
     
-    2. [Markdown Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=5fgOUT4idvU)
+- [Markdown Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=5fgOUT4idvU)
 
 
 ## Add SSH for windows
