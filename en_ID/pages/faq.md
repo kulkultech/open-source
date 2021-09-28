@@ -1,24 +1,24 @@
 # Frequently Asked Questions
 
 ## Virtual Internship
+---
+**Q: Do I need a letter of submission from the campus to join this internship?**  
+A: No need. Follow the first steps, and we'll process your internship application.
 
-1. Do I need a letter of submission from the campus to join this internship?  
-No need. Follow the first steps, and we'll process your internship application.
-
-2. Which college student from major can join this internship?
-Generally, no requirement, anyone in the world who just started their software engineering career can join. We have interns ranging from college student to career switcher (have years of experience but move to software engineering).
+**Q: Which college student from major can join this internship?**  
+A: Generally, no requirement, anyone in the world who just started their software engineering career can join. We have interns ranging from college student to career switcher (have years of experience but move to software engineering).
 
 
-3. How many numbers interns will be received each season?
-We have no strict limit on the number of interns we hire every year as our business is also growing. Everyone can prove they capable to join our internship if he proves able to finish the first steps and pass our interview.
+**Q: How many numbers interns will be received each season?**  
+A: We have no strict limit on the number of interns we hire every year as our business is also growing. Everyone can prove they capable to join our internship if he proves able to finish the first steps and pass our interview.
 
-4. What are the eligibility requirements for participation?  
-Generally, there are no strict requirements. Anyone who early in their software engineering career can join this program as long as can commit a significant amount of time to this internship as we mention in the [Duration and time commitment](internship.md#Duration_and_time_commitment). This internship program is intensive, so a time commitment is very important as this program is running virtually.
+**Q: What are the eligibility requirements for participation?**  
+A: Generally, there are no strict requirements. Anyone who early in their software engineering career can join this program as long as can commit a significant amount of time to this internship as we mention in the [Duration and time commitment](internship.md#Duration_and_time_commitment). This internship program is intensive, so a time commitment is very important as this program is running virtually.
 
-5. Do my PR (Pull Requests) need to be merged first to be counted valid?  
-Pull requests need to be merge except one in the Step 3.
+**Q: Do my PR (Pull Requests) need to be merged first to be counted valid?**  
+A: Pull requests need to be merge except one in the Step 3.
 
-### How to Make a PR (Pull Request) ?
+**Q: How to Make a PR (Pull Request) ?**  
 
 The very first thing to do before making a PR is creating a new branch for your PR.
 
