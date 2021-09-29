@@ -74,10 +74,10 @@ git push origin [your branch dir/your branch name]
 
 * Create PR from the branches that you made commit.
 
-<img src=images/Branch-pr.png alt class="img-responsive img-thumbnail"/>
+<img src=images/Branch-pr.png alt class="img-responsive img-thumbnail"/>   
 
-<br/>
-<br>
+___
+___
 
 ## Github
 ---
@@ -138,7 +138,9 @@ If you still not completely understand about github and need more explanations, 
 - [Github Explanation Video in English](https://www.youtube.com/watch?v=RGOj5yH7evk)
     
 - [Github Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
-    
+
+___
+___
 
 ## Markdown
 ---
@@ -169,9 +171,11 @@ A: [markdown tutorial](https://commonmark.org/help/tutorial/)
     
 - [Markdown Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=5fgOUT4idvU)
 
+___
+___
 
 ## Add SSH for windows
-
+---
 To configure your GitHub account to use your new (or existing) SSH key, you'll also need to add it to your GitHub account.
 
 ### Generating a new SSH
@@ -238,8 +242,11 @@ Tip: If clip isn't working, you can locate the hidden .ssh folder, open the file
 
 * If prompted, confirm your GitHub password.
 
-## Add new SSH key for Linux
+___
+___
 
+## Add new SSH key for Linux
+---
 To configure your GitHub account to use your new (or existing) SSH key, you'll also need to add it to your GitHub account.
 
 ### Generating a new SSH key
@@ -307,6 +314,9 @@ $ xclip -selection clipboard < ~/.ssh/id_ed25519.pub
 6. Paste your key into the "Key" field.
 7. Click **Add SSH key**.
 8. If prompted, confirm your GitHub password.
+
+___
+___
 
 ## Open-source Project
 
