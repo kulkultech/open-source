@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+# <img src="https://img.icons8.com/external-vitaliy-gorbachev-fill-vitaly-gorbachev/60/000000/external-question-support-vitaliy-gorbachev-fill-vitaly-gorbachev.png"/> Frequently Asked Questions
 
 ## Virtual Internship
 
