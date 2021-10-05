@@ -21,7 +21,7 @@ Quantum Computing    |
 System Engineering     |
   
 
-We are a tech-based company and software engineering is at the heart of our company. So although some positions are less technical, we expect all aspiring interns to go through the same First Step Process. In the following section, you'll learn how to finish the first step. However, the completion of the first step is not a guarantee to get the positions. As each intern will be exclusively **mentored** by our team **(a mentorship that worth more than $6k)**, only selected aspiring interns will be selected as our intern.
+We are a tech-based company and software engineering is at the heart of our company. So although some positions are less technical, we expect all aspiring interns to go through the same First Step Process. In the following section, you'll learn how to finish the first step. However, the completion of the first step is not a guarantee to get the positions. As each intern will be exclusively **mentored** by our team **(a mentorship that is worth more than $6k)**, only selected aspiring interns will be selected as our intern.
 
 ## Duration and time commitment
 
@@ -106,15 +106,15 @@ We are software engineers use CLI or terminal to do many things, and we encourag
 
 ### Working with Vim
 
-Note: This not required for a non-technical candidate.
+Note: This is not required for a non-technical candidate.
 
 One of the simplest but most powerful text editors out there is Vim. If you want to see what Vim can do and how powerful it can be, you can learn more about [Vim here][LearnVim].
 
 Vim has two basic modes; One is insert mode and the other is normal mode.
 
-Vim has lots of shortcuts to manuplate texts. It is so hard to remember all of them unless you use vşm all the time.
+Vim has lots of shortcuts to manipulate texts. It is so hard to remember all of them unless you use vşm all the time.
 
-For making some pratice with Vim, please check : [Interactive Vim](https://www.openvim.com)
+For making some practice with Vim, please check: [Interactive Vim](https://www.openvim.com)
 
 Vim is not necessary for this internship, but it is truly helpful when working with Terminal and Git.
 
@@ -125,7 +125,7 @@ ___
 Note:
 ‎
 - No GitHub Issues or Pull Requests expected from this stage, but if you have one, it will be appreciated.
-- This not required for a non-technical candidate.
+- This is not required for a non-technical candidate.
 
 The first step is we want you to taste how it's like to grab somebody else's code from the internet from the project that we have in the company. Ngecilin has already good documentation that you can follow in [its repositories][Ngecilin].
 ___
@@ -136,7 +136,7 @@ ___
 
 Note:
 ‎
-- This not required for a non-technical candidate.
+- This is not required for a non-technical candidate.
 - We hope you're able to use SSH key authentication in your GitHub after finishing this step.
 
 After you are able to install Ngecilin we will soon start our social coding journey. The goals of this step are the following.
@@ -164,7 +164,7 @@ ___
 
 ## Step 4 - System tutorial and Docker
 
-Note: This not required for a non-technical candidate.
+Note: This is not required for a non-technical candidate.
 
 In this fourth step, we will get acquainted with Docker. What is Docker? Docker is a program that can help us to run and develop applications in any operating system. By using Docker we can run applications that are packed into Container. Container contains whatever is needed by our application, in order to run properly in this case the libraries or dependencies required by the application. Docker is available on various platforms including [Windows][docker-windows], [Linux][docker-linux], and [macOS][docker-macos].
 
@@ -177,7 +177,7 @@ ___
 
 ## Step 5 - Keeping fork updated
 
-Note: This not required for a non-technical candidate. A non-technical candidate can use [GitHub Codespace][codespace] or directly on GitHub graphical user interface.
+Note: This is not required for a non-technical candidate. A non-technical candidate can use [GitHub Codespace][codespace] or directly on GitHub graphical user interface.
 
 At this fifth stage, we will discuss a little how-to to keeping fork updated. So the goal is how we can get the latest version from the upstream repository and then merge the new changes into your fork.
 
@@ -190,17 +190,11 @@ This is an example for the code
 
 Note: The upstream is kulkul<br />
 **1**. Add the original remote Kulkul's URL repository with this command:
-
 ```git remote add kulkul git@github.com:kulkultech/open-source.git```
-
 the Kulkul's original repository which is mostly called `upstream`.
-
 **2**. To ensure the status, you can check with this command: 
-
 ```git remote -v```
-
 **3**. Now, to keep `upstream` updated, you can run this command: 
-
 ```git fetch kulkul```
 
 To finish this step you can follow the tutorial below.
@@ -223,7 +217,7 @@ Follow the GitHub Issues tutorial video below to create at least one issue. Post
 
 No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all the issues that you file. You can also work on issues that you didn't create.
 
-Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged. You may continue making Issues, Pull requests and Comments, or move on to the next step, while you are waiting for your pull request to be merged. The approval process for your Step 6 fixes may take time, but it is OK to continue working.
+Make sure you have created at least one issue, resolved it, commented on an issue you didn't create, and have a pull request with the fix merged. You may continue making Issues, Pull requests and Comments, or move on to the next step, while you are waiting for your pull request to be merged. The approval process for your Step 6 fixes may take time, but it is OK to continue working.
 
 [![][GitHubIssuesThumb]][GitHubIssues]
 ___
@@ -234,13 +228,13 @@ ___
 
 As explained before at [Step 4](pages/internship.md#Step_4_-_System_tutorial_and_Docker) Docker is a service that you can install all necessary libraries and other stuff for your apps to run properly.
 
-In this step you will apprehend how to install an application to your Docker container. In summary, there is two methods to install an application to your container.
+In this step, you will apprehend how to install an application to your Docker container. In summary, there are two methods to install an application to your container.
 
 One is, you can use command line and the other way is using docker-compose.
 
-In the video below, you will find hot to install MySQL with both ways.
+In the video below, you will find how to install MySQL with both ways.
 
-Note: This not required for a non-technical candidate.
+Note: This is not required for a non-technical candidate.
 
 To finish this step you can follow the tutorial below.
 
@@ -253,7 +247,7 @@ ___
 
 **Attention: At the end of this step, you will have the following finished.**
 ‎
-- **5 merged pull requests** (one at step 3, one at step 6 and three at step 8)
+- **5 merged pull requests** (one at step 3, one at step 6, and three at step 8)
 - **4 comments made** on issues you didn't create (one at step 6 and three at step 8)
 - **4 issues created** (one at step 6 and three at step 8)
 **It should be made in [kulkultech/open-source][open-source] repository.**
