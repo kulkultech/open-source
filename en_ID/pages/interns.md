@@ -15,6 +15,7 @@
 | [![][MuhammadAzka9-img]][MuhammadAzka9-gh]&nbsp;[MuhammadAzka9](profiles/MuhammadAzka9.md) | 2021-05-24|
 | [![][AhlOct-img]][AhlOct-gh]&nbsp;[AhlOct](profiles/AhlOct.md) | 2021-06-11|
 | [![][aransafp-img]][aransafp-gh]&nbsp;[AransaFp](profiles/AransaFp.md)                                                                       | 2021-10-11    |
+| [![][fiq-i-img]][AhlOct-gh]&nbsp;[fiq-i](profiles/fiq-i.md) | 2022-06-15|
 
 <!---
 Put images link below
@@ -30,7 +31,7 @@ Put images link below
 [MuhammadAzka9-img]:https://github.com/MuhammadAzka9.png?size=25
 [AhlOct-img]: https://github.com/AhlOct.png?size=25
 [aransafp-img]: https://github.com/aransafp.png?size=25
-
+[fiq-i-img]:  https://github.com/fiq-i.png?size=25
 <!---
 Put GitHub profiles link below
 -->
