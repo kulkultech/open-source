@@ -46,3 +46,4 @@ Put GitHub profiles link below
 [MuhammadAzka9-gh]: https://github.com/MuhammadAzka9
 [AhlOct-gh]: https://github.com/AhlOct
 [aransafp-gh]: https://github.com/aransafp
+[fiq-i-gh]: https://github.com/fiq-i
