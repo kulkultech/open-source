@@ -15,7 +15,7 @@
 | [![][MuhammadAzka9-img]][MuhammadAzka9-gh]&nbsp;[MuhammadAzka9](profiles/MuhammadAzka9.md) | 2021-05-24|
 | [![][AhlOct-img]][AhlOct-gh]&nbsp;[AhlOct](profiles/AhlOct.md) | 2021-06-11|
 | [![][aransafp-img]][aransafp-gh]&nbsp;[AransaFp](profiles/AransaFp.md)                                                                       | 2021-10-11    |
-| [![][fiq-i-img]][AhlOct-gh]&nbsp;[fiq-i](profiles/fiq-i.md) | 2022-06-15|
+| [![][fiq-i-img]][fiq-i-gh]&nbsp;[fiq-i](profiles/fiq-i.md) | 2022-06-15|
 
 <!---
 Put images link below
