@@ -90,7 +90,7 @@ Then *follows* our core crews on GitHub!
 - [yuliefas][yuliefas]
 - [hudakurniawan][hudakurniawan]
 - [Mima-mim][mima]
-- [gitandini][gitandini]
+- [AhlOct][AhlOct]
 
 In GitHub, we "Stars" organization repositories and "Follow" individuals. Look for the "Stars" button at the top right of the page when you are in a repository. Also, follow each other to see what others in the group are doing.
 
@@ -281,7 +281,7 @@ Put any link below
 [empeje]: https://github.com/empeje
 [yuliefas]: https://github.com/yuliefas
 [hudakurniawan]: https://github.com/hudakurniawan
-[gitandini]: https://github.com/gitandini
+[AhlOct]: https://github.com/AhlOct
 [mima]: https://github.com/Mima-mim
 [GitBash]: https://git-scm.com/downloads
 [LearnVim]: https://danielmiessler.com/study/vim/#textobjects
