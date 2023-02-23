@@ -49,5 +49,5 @@ Put GitHub profiles link below
 [MuhammadAzka9-gh]: https://github.com/MuhammadAzka9
 [AhlOct-gh]: https://github.com/AhlOct
 [aransafp-gh]: https://github.com/aransafp
-[fortoszone-img]: https://github.com/fortoszone
+[fortoszone-gh]: https://github.com/fortoszone
 
