@@ -1,6 +1,6 @@
 # Alfred Kuhlman (AlfredPros)
 
-_Hi!_ My name is Alfred Kuhlman! You can call me "Alfred"! :D
+_Hi!_ My name is [Alfred Kuhlman](https://github.com/AlfredPros)! You can call me "Alfred"! :D
 
 I like software engineering because I can create things that's on my mind into reality! And seeing my creation come to life is **very** satisfying!
 
