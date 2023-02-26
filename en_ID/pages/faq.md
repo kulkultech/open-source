@@ -1,6 +1,6 @@
-# <img src="https://static.vecteezy.com/system/resources/thumbnails/005/887/265/small/faq-illustration-on-a-background-premium-quality-symbols-icons-for-concept-or-graphic-design-vector.jpg" style="height:24px"> Frequently Asked Questions
+# <img src="https://static.vecteezy.com/system/resources/thumbnails/005/887/265/small/faq-illustration-on-a-background-premium-quality-symbols-icons-for-concept-or-graphic-design-vector.jpg" class="img-header1"> Frequently Asked Questions
 
-## <img src="https://thumbs.dreamstime.com/b/online-internship-icon-outline-online-internship-vector-icon-color-flat-isolated-online-internship-icon-color-outline-vector-232827758.jpg" style="height:18px"> Virtual Internship
+## <img src="https://thumbs.dreamstime.com/b/online-internship-icon-outline-online-internship-vector-icon-color-flat-isolated-online-internship-icon-color-outline-vector-232827758.jpg" class="img-header2"> Virtual Internship
 ---
 **Q: Do I need a letter of submission from the campus to join this internship?**  
 A: No need. Follow the first steps, and we'll process your internship application.
@@ -79,7 +79,7 @@ git push origin [your branch dir/your branch name]
 <br/>
 <br>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="height:18px"> Github
+## <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" class="img-header2"> Github
 ---
 You can understand all about Github by read and following below :
 
@@ -131,7 +131,7 @@ A: [Fork a repo](https://docs.github.com/en/github/getting-started-with-github/f
 **Q: How to attach file in github?**  
 A: [About Github File Attachments](https://docs.github.com/en/github/managing-your-work-on-github/file-attachments-on-issues-and-pull-requests)
 
-### <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" style="height:14px"> **Explanations Video About Github**
+### <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" class="img-header3"> **Explanations Video About Github**
     
 If you still not completely understand about github and need more explanations, you can watch the video following video below :
     
@@ -140,7 +140,7 @@ If you still not completely understand about github and need more explanations, 
 - [Github Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
     
 
-## <img src="https://static-00.iconduck.com/assets.00/markdown-icon-512x316-15yq8bwr.png" style="height:18px"> Markdown
+## <img src="https://static-00.iconduck.com/assets.00/markdown-icon-512x316-15yq8bwr.png" class="img-header2"> Markdown
 ---
 **Q: What is Markdown and why use Markdown ?**  
 A: [Click here](https://www.markdownguide.org/getting-started/)
@@ -161,7 +161,7 @@ A: [basic syntax](https://www.markdownguide.org/basic-syntax/)
 A: [markdown tutorial](https://commonmark.org/help/tutorial/)
 
 
-### <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" style="height:14px"> **Explanation Video About Markdown**
+### <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" class="img-header3"> **Explanation Video About Markdown**
     
    If you still not completely understand about markdown and need more explanations, you can watch the following video below :
    
@@ -170,11 +170,11 @@ A: [markdown tutorial](https://commonmark.org/help/tutorial/)
 - [Markdown Explanation Video in Bahasa Indonesia](https://www.youtube.com/watch?v=5fgOUT4idvU)
 
 
-## <img src="https://cdn-icons-png.flaticon.com/512/220/220215.png" style="height:18px"> Add SSH for windows
+## <img src="https://cdn-icons-png.flaticon.com/512/220/220215.png" class="img-header2"> Add SSH for windows
 
 To configure your GitHub account to use your new (or existing) SSH key, you'll also need to add it to your GitHub account.
 
-### <img src="http://cdn.onlinewebfonts.com/svg/img_130996.png" style="height:14px"> Generating a new SSH
+### <img src="http://cdn.onlinewebfonts.com/svg/img_130996.png" class="img-header3"> Generating a new SSH
 
 * Open Git Bash.
 
@@ -199,7 +199,7 @@ $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 > Enter same passphrase again: [Type passphrase again]
 ```
 
-### <img src="http://cdn.onlinewebfonts.com/svg/img_130996.png" style="height:14px"> Adding your SSH key to the ssh-agent
+### <img src="http://cdn.onlinewebfonts.com/svg/img_130996.png" class="img-header3"> Adding your SSH key to the ssh-agent
 
 * Ensure the ssh-agent is running. Start it manually:
 
@@ -214,7 +214,7 @@ $ eval `ssh-agent -s`
 $ ssh-add ~/.ssh/id_ed25519
 ```
 
-### <img src="http://cdn.onlinewebfonts.com/svg/img_130996.png" style="height:14px"> Add the SSH key to your GitHub account
+### <img src="http://cdn.onlinewebfonts.com/svg/img_130996.png" class="img-header3"> Add the SSH key to your GitHub account
 
 * Copy the SSH public key to your clipboard.
 
@@ -238,11 +238,11 @@ Tip: If clip isn't working, you can locate the hidden .ssh folder, open the file
 
 * If prompted, confirm your GitHub password.
 
-## <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" style="height:18px"> Add new SSH key for Linux
+## <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" class="img-header2"> Add new SSH key for Linux
 
 To configure your GitHub account to use your new (or existing) SSH key, you'll also need to add it to your GitHub account.
 
-### <img src="http://cdn.onlinewebfonts.com/svg/img_130996.png" style="height:14px"> Generating a new SSH key
+### <img src="http://cdn.onlinewebfonts.com/svg/img_130996.png" class="img-header3"> Generating a new SSH key
 
 * Open Terminal.
 * Paste the text below, substituting in your GitHub email address.
@@ -274,7 +274,7 @@ This creates a new ssh key, using the provided email as a label.
 > Enter same passphrase again: [Type passphrase again]
 ```
 
-### <img src="http://cdn.onlinewebfonts.com/svg/img_130996.png" style="height:14px"> Adding your SSH key to the ssh-agent
+### <img src="http://cdn.onlinewebfonts.com/svg/img_130996.png" class="img-header3"> Adding your SSH key to the ssh-agent
 1. Start the ssh-agent in the background.
 ```
 $ eval "$(ssh-agent -s)"
@@ -285,7 +285,7 @@ $ eval "$(ssh-agent -s)"
 $ ssh-add ~/.ssh/id_ed25519
 ```
 
-### <img src="http://cdn.onlinewebfonts.com/svg/img_130996.png" style="height:14px"> Add the SSH key to your GitHub account.
+### <img src="http://cdn.onlinewebfonts.com/svg/img_130996.png" class="img-header3"> Add the SSH key to your GitHub account.
 1. Copy the SSH public key to your clipboard. If your SSH public key file has a different name than the example code, modify the filename to match your current setup. When copying your key, don't add any newlines or whitespace.
 
 ```
@@ -308,7 +308,7 @@ $ xclip -selection clipboard < ~/.ssh/id_ed25519.pub
 7. Click **Add SSH key**.
 8. If prompted, confirm your GitHub password.
 
-## <img src="https://cdn-icons-png.flaticon.com/512/607/607870.png" style="height:18px"> Open-source Project
+## <img src="https://cdn-icons-png.flaticon.com/512/607/607870.png" class="img-header2"> Open-source Project
 
 The FAQ is not available yet.
 

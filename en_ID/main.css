@@ -77,6 +77,16 @@ body {
     padding: 0px 10px;
 }
 
+#img-header1 {
+    height: 32px;
+}
+#img-header2 {
+    height: 24px;
+}
+#img-header3 {
+    height: 21px;
+}
+
 .loader {
     display: none;
     margin-left: 10px;
