@@ -275,6 +275,10 @@ Next thing is to post a screenshot of your completed progress to the [Discord ch
 
 Message us ("@/all" and "@rrachman") and ask about adding yourself to the virtual intern list found in `interns.md` and setting up a meeting, so you can become a part of the team as soon as possible if you're considered well suited.
 
+
+<br/>
+[**↑ Back to Top**](#md-page-menu)
+
 <!---
 Put any link below
 -->

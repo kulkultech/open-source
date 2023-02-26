@@ -312,7 +312,6 @@ $ xclip -selection clipboard < ~/.ssh/id_ed25519.pub
 
 The FAQ is not available yet.
 
-<br/>
-[Back to top](#top)
 
-<a href="#top">Back to top</a>
+<br/>
+[**↑ Back to Top**](#md-page-menu)
