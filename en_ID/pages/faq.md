@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # Frequently Asked Questions
 
 ## Virtual Internship
@@ -314,4 +316,4 @@ The FAQ is not available yet.
 
 
 <br/>
-[**↑ Back to Top**](#md-content)
+[**↑ Back to Top**](#top)
