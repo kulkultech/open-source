@@ -316,4 +316,4 @@ The FAQ is not available yet.
 
 
 <br/>
-[**↑ Back to Top**](#top)
+<a href="#top">**↑ Back to Top**</a>
