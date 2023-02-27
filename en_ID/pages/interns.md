@@ -1,5 +1,3 @@
-<div id="top"></div>
-
 # Members
 
 ## Active Members
