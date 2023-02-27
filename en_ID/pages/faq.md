@@ -314,4 +314,4 @@ The FAQ is not available yet.
 
 
 <br/>
-<button onclick="goToTop()" id="goToTopBtn">**↑ Back to Top**</button>
+<button onclick="goToTop()" id="goToTopBtn" style="border:none; background:none; padding:0; color:blue;">**↑ Back to Top**</button>

@@ -51,4 +51,4 @@ Put GitHub profiles link below
 
 
 <br/>
-[**↑ Back to Top**](#top)
+<button onclick="goToTop()" id="goToTopBtn" style="border:none; background:none; padding:0; color:blue;">**↑ Back to Top**</button>
