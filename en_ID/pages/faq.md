@@ -1,5 +1,3 @@
-<div id="top"></div>
-
 # Frequently Asked Questions
 
 ## Virtual Internship
@@ -316,4 +314,4 @@ The FAQ is not available yet.
 
 
 <br/>
-<a href="#top">**↑ Back to Top**</a>
+<button onclick="goToTop()" id="goToTopBtn">**↑ Back to Top**</button>
