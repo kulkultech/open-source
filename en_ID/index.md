@@ -2,7 +2,7 @@
 
 ## ![This is a alt text.](https://img.icons8.com/material-rounded/25/000000/enter-2.png "Welcome") Welcome
 
-Welcome! You're on Kulkul's open-source program page. We are committed to the open-source movement and using the open-source program as a tool to nurture and groom the next generation of Kul software engineers. We have internships and open-source programs that we started to open in late 2020. Browse around to learn more.
+Welcome! You're on Kulkul's open-source program page. We are committed to the open-source movement and using the open-source program as a tool to nurture and groom the next generation of Kul software engineers. We have [internships](pages/internship.md) and open-source programs that we started to open in late 2020. Browse around to learn more.
 
 ## ![This is a alt text.](https://img.icons8.com/ios-filled/25/000000/info.png "About") About Kulkul.tech
 
