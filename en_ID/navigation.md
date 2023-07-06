@@ -38,7 +38,7 @@
   - - - -
   * [**Members**](pages/interns.md)
 
-[About](https://kulkul.tech/about/)
+[About](https://www.kulkul.tech/about-us/)
 
 [Social]()
 
