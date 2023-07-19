@@ -50,8 +50,10 @@
   * [<img src="pages/images/twitter.png" alt="alt text" width="20px"/> Twitter](https://twitter.com/kulkultech)
   * [<img src="pages/images/youtube.png" alt="alt text" width="20px"/> Youtube](https://www.youtube.com/channel/UCkafa38JOKqTfZmBaMYoywQ)
 
-[gimmick:ForkMeOnGitHub (position: 'right', color: 'darkblue') ](https://github.com/kulkultech/open-source)
 
+<!--
+[gimmick:ForkMeOnGitHub (position: 'right', color: 'darkblue') ](https://github.com/kulkultech/open-source)
+-->
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
