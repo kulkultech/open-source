@@ -2,21 +2,25 @@
 
 ## Virtual Internship
 ---
-**Q: Do I need a letter of submission from the campus to join this internship?**  
+<details open><summary>**Q: Do I need a letter of submission from the campus to join this internship?**</summary>  
 A: No need. Follow the first steps, and we'll process your internship application.
+</details>
 
-**Q: Which college student from major can join this internship?**  
+<details open><summary>**Q: Which college student from major can join this internship?**</summary>  
 A: Generally, no requirement, anyone in the world who just started their software engineering career can join. We have interns ranging from college student to career switcher (have years of experience but move to software engineering).
+</details>
 
-
-**Q: How many numbers interns will be received each season?**  
+<details open><summary>**Q: How many numbers interns will be received each season?**</summary>  
 A: We have no strict limit on the number of interns we hire every year as our business is also growing. Everyone can prove they capable to join our internship if he proves able to finish the first steps and pass our interview.
+</details>
 
-**Q: What are the eligibility requirements for participation?**  
+<details open><summary>**Q: What are the eligibility requirements for participation?**</summary>  
 A: Generally, there are no strict requirements. Anyone who early in their software engineering career can join this program as long as can commit a significant amount of time to this internship as we mention in the [Duration and time commitment](internship.md#Duration_and_time_commitment). This internship program is intensive, so a time commitment is very important as this program is running virtually.
+</details>
 
-**Q: Do my PR (Pull Requests) need to be merged first to be counted valid?**  
+<details open><summary>**Q: Do my PR (Pull Requests) need to be merged first to be counted valid?**</summary>  
 A: Pull requests need to be merge except one in the Step 3.
+</details>
 
 **Q: How to Make a PR (Pull Request) ?**  
 
