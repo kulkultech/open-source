@@ -15,6 +15,10 @@
 | [![][MuhammadAzka9-img]][MuhammadAzka9-gh]&nbsp;[MuhammadAzka9](profiles/MuhammadAzka9.md) | 2021-05-24|
 | [![][AhlOct-img]][AhlOct-gh]&nbsp;[AhlOct](profiles/AhlOct.md) | 2021-06-11|
 | [![][aransafp-img]][aransafp-gh]&nbsp;[AransaFp](profiles/AransaFp.md)                                                                       | 2021-10-11    |
+| [![][claire-img]][claire-gh]&nbsp;[claire](profiles/clairejoseph.md) | 2023-06-29|
+
+
+
 
 <!---
 Put images link below
@@ -30,6 +34,8 @@ Put images link below
 [MuhammadAzka9-img]:https://github.com/MuhammadAzka9.png?size=25
 [AhlOct-img]: https://github.com/AhlOct.png?size=25
 [aransafp-img]: https://github.com/aransafp.png?size=25
+[claire-img]: https://github.com/cjj20.png?size=25
+
 
 <!---
 Put GitHub profiles link below
@@ -45,3 +51,4 @@ Put GitHub profiles link below
 [MuhammadAzka9-gh]: https://github.com/MuhammadAzka9
 [AhlOct-gh]: https://github.com/AhlOct
 [aransafp-gh]: https://github.com/aransafp
+[claire-gh]: https://github.com/cjj20
